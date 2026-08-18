@@ -1,0 +1,2167 @@
+﻿Wilayah;Tahun;Perkotaan_Perdesaan;Kondisi;Status;total_WERT
+Bandung;2021;Perdesaan;Berasa;Ya;1,801605582
+Bandung;2022;Perdesaan;Berasa;Ya;193,5528728
+Bandung;2019;Perkotaan;Berasa;Ya;7578,43634
+Bandung;2020;Perkotaan;Berasa;Ya;9909,85199
+Bandung;2021;Perkotaan;Berasa;Ya;864,3305664
+Bandung;2022;Perkotaan;Berasa;Ya;2111,907468
+Bandung;2023;Perkotaan;Berasa;Ya;4308,186484
+Bandung;2019;Perdesaan;Berasa;Tidak;42695,0006
+Bandung;2020;Perdesaan;Berasa;Tidak;41490,60728
+Bandung;2021;Perdesaan;Berasa;Tidak;19667,02826
+Bandung;2022;Perdesaan;Berasa;Tidak;18628,97955
+Bandung;2023;Perdesaan;Berasa;Tidak;13398,33873
+Bandung;2019;Perkotaan;Berasa;Tidak;970177,065
+Bandung;2020;Perkotaan;Berasa;Tidak;992981,3146
+Bandung;2021;Perkotaan;Berasa;Tidak;1064073,17
+Bandung;2022;Perkotaan;Berasa;Tidak;1015331,888
+Bandung;2023;Perkotaan;Berasa;Tidak;959225,2914
+Bandung;2020;Perdesaan;Berbau;Ya;875,6845093
+Bandung;2021;Perdesaan;Berbau;Ya;1,801605582
+Bandung;2023;Perdesaan;Berbau;Ya;26,55750723
+Bandung;2019;Perkotaan;Berbau;Ya;27819,15295
+Bandung;2020;Perkotaan;Berbau;Ya;7196,81134
+Bandung;2021;Perkotaan;Berbau;Ya;864,3305664
+Bandung;2022;Perkotaan;Berbau;Ya;7125,495798
+Bandung;2023;Perkotaan;Berbau;Ya;3007,390987
+Bandung;2019;Perdesaan;Berbau;Tidak;42695,0006
+Bandung;2020;Perdesaan;Berbau;Tidak;40614,92278
+Bandung;2021;Perdesaan;Berbau;Tidak;19667,02826
+Bandung;2022;Perdesaan;Berbau;Tidak;18822,53242
+Bandung;2023;Perdesaan;Berbau;Tidak;13371,78122
+Bandung;2019;Perkotaan;Berbau;Tidak;949936,3484
+Bandung;2020;Perkotaan;Berbau;Tidak;995694,3552
+Bandung;2021;Perkotaan;Berbau;Tidak;1064073,17
+Bandung;2022;Perkotaan;Berbau;Tidak;1010318,3
+Bandung;2023;Perkotaan;Berbau;Tidak;960526,0869
+Bandung;2019;Perkotaan;Berbusa;Ya;3795,443542
+Bandung;2020;Perkotaan;Berbusa;Ya;1635,706909
+Bandung;2022;Perkotaan;Berbusa;Ya;2505,409095
+Bandung;2023;Perkotaan;Berbusa;Ya;3007,390987
+Bandung;2019;Perdesaan;Berbusa;Tidak;42695,0006
+Bandung;2020;Perdesaan;Berbusa;Tidak;41490,60728
+Bandung;2021;Perdesaan;Berbusa;Tidak;19668,82987
+Bandung;2022;Perdesaan;Berbusa;Tidak;18822,53242
+Bandung;2023;Perdesaan;Berbusa;Tidak;13398,33873
+Bandung;2019;Perkotaan;Berbusa;Tidak;973960,0578
+Bandung;2020;Perkotaan;Berbusa;Tidak;1001255,46
+Bandung;2021;Perkotaan;Berbusa;Tidak;1064937,5
+Bandung;2022;Perkotaan;Berbusa;Tidak;1014938,387
+Bandung;2023;Perkotaan;Berbusa;Tidak;960526,0869
+Bandung;2021;Perdesaan;Berwarna;Ya;297,3365787
+Bandung;2022;Perdesaan;Berwarna;Ya;287,9268583
+Bandung;2019;Perkotaan;Berwarna;Ya;18828,85577
+Bandung;2020;Perkotaan;Berwarna;Ya;19567,7691
+Bandung;2021;Perkotaan;Berwarna;Ya;16575,10217
+Bandung;2022;Perkotaan;Berwarna;Ya;18738,38886
+Bandung;2023;Perkotaan;Berwarna;Ya;42728,33776
+Bandung;2019;Perdesaan;Berwarna;Tidak;42695,0006
+Bandung;2020;Perdesaan;Berwarna;Tidak;41490,60728
+Bandung;2021;Perdesaan;Berwarna;Tidak;19371,49329
+Bandung;2022;Perdesaan;Berwarna;Tidak;18534,60556
+Bandung;2023;Perdesaan;Berwarna;Tidak;13398,33873
+Bandung;2019;Perkotaan;Berwarna;Tidak;958926,6455
+Bandung;2020;Perkotaan;Berwarna;Tidak;983323,3975
+Bandung;2021;Perkotaan;Berwarna;Tidak;1048362,398
+Bandung;2022;Perkotaan;Berwarna;Tidak;998705,4069
+Bandung;2023;Perkotaan;Berwarna;Tidak;920805,1401
+Bandung;2020;Perdesaan;Keruh;Ya;1277,348175
+Bandung;2021;Perdesaan;Keruh;Ya;1,801605582
+Bandung;2022;Perdesaan;Keruh;Ya;86,6374693
+Bandung;2023;Perdesaan;Keruh;Ya;205,867272
+Bandung;2019;Perkotaan;Keruh;Ya;24696,3006
+Bandung;2020;Perkotaan;Keruh;Ya;15403,20703
+Bandung;2021;Perkotaan;Keruh;Ya;8515,449097
+Bandung;2022;Perkotaan;Keruh;Ya;28764,42885
+Bandung;2023;Perkotaan;Keruh;Ya;16963,30932
+Bandung;2019;Perdesaan;Keruh;Tidak;42695,0006
+Bandung;2020;Perdesaan;Keruh;Tidak;40213,25911
+Bandung;2021;Perdesaan;Keruh;Tidak;19667,02826
+Bandung;2022;Perdesaan;Keruh;Tidak;18735,89495
+Bandung;2023;Perdesaan;Keruh;Tidak;13192,47146
+Bandung;2019;Perkotaan;Keruh;Tidak;953059,2007
+Bandung;2020;Perkotaan;Keruh;Tidak;987487,9595
+Bandung;2021;Perkotaan;Keruh;Tidak;1056422,051
+Bandung;2022;Perkotaan;Keruh;Tidak;988679,3669
+Bandung;2023;Perkotaan;Keruh;Tidak;946570,1685
+Bandung Barat;2019;Perdesaan;Berasa;Ya;254,1224518
+Bandung Barat;2021;Perdesaan;Berasa;Ya;2922,400101
+Bandung Barat;2023;Perdesaan;Berasa;Ya;341,3494004
+Bandung Barat;2019;Perkotaan;Berasa;Ya;932,5112915
+Bandung Barat;2020;Perkotaan;Berasa;Ya;3257,648438
+Bandung Barat;2021;Perkotaan;Berasa;Ya;615,828064
+Bandung Barat;2022;Perkotaan;Berasa;Ya;900,8891083
+Bandung Barat;2019;Perdesaan;Berasa;Tidak;130573,3927
+Bandung Barat;2020;Perdesaan;Berasa;Tidak;131393,2369
+Bandung Barat;2021;Perdesaan;Berasa;Tidak;117371,4841
+Bandung Barat;2022;Perdesaan;Berasa;Tidak;114520,2684
+Bandung Barat;2023;Perdesaan;Berasa;Tidak;106283,6765
+Bandung Barat;2019;Perkotaan;Berasa;Tidak;337760,5332
+Bandung Barat;2020;Perkotaan;Berasa;Tidak;333283,5031
+Bandung Barat;2021;Perkotaan;Berasa;Tidak;368025,4768
+Bandung Barat;2022;Perkotaan;Berasa;Tidak;360202,8096
+Bandung Barat;2023;Perkotaan;Berasa;Tidak;384644,9637
+Bandung Barat;2019;Perdesaan;Berbau;Ya;329,359642
+Bandung Barat;2023;Perdesaan;Berbau;Ya;497,6286323
+Bandung Barat;2019;Perkotaan;Berbau;Ya;2286,122528
+Bandung Barat;2020;Perkotaan;Berbau;Ya;3696,376038
+Bandung Barat;2021;Perkotaan;Berbau;Ya;1126,876923
+Bandung Barat;2022;Perkotaan;Berbau;Ya;3063,033577
+Bandung Barat;2023;Perkotaan;Berbau;Ya;107,9260557
+Bandung Barat;2019;Perdesaan;Berbau;Tidak;130498,1555
+Bandung Barat;2020;Perdesaan;Berbau;Tidak;131393,2369
+Bandung Barat;2021;Perdesaan;Berbau;Tidak;120293,8842
+Bandung Barat;2022;Perdesaan;Berbau;Tidak;114520,2684
+Bandung Barat;2023;Perdesaan;Berbau;Tidak;106127,3973
+Bandung Barat;2019;Perkotaan;Berbau;Tidak;336406,922
+Bandung Barat;2020;Perkotaan;Berbau;Tidak;332844,7755
+Bandung Barat;2021;Perkotaan;Berbau;Tidak;367514,4279
+Bandung Barat;2022;Perkotaan;Berbau;Tidak;358040,6652
+Bandung Barat;2023;Perkotaan;Berbau;Tidak;384537,0377
+Bandung Barat;2019;Perdesaan;Berbusa;Ya;254,1224518
+Bandung Barat;2023;Perdesaan;Berbusa;Ya;499,5200272
+Bandung Barat;2019;Perkotaan;Berbusa;Ya;414,0827026
+Bandung Barat;2020;Perkotaan;Berbusa;Ya;1550,223816
+Bandung Barat;2022;Perkotaan;Berbusa;Ya;900,8891083
+Bandung Barat;2019;Perdesaan;Berbusa;Tidak;130573,3927
+Bandung Barat;2020;Perdesaan;Berbusa;Tidak;131393,2369
+Bandung Barat;2021;Perdesaan;Berbusa;Tidak;120293,8842
+Bandung Barat;2022;Perdesaan;Berbusa;Tidak;114520,2684
+Bandung Barat;2023;Perdesaan;Berbusa;Tidak;106125,5059
+Bandung Barat;2019;Perkotaan;Berbusa;Tidak;338278,9618
+Bandung Barat;2020;Perkotaan;Berbusa;Tidak;334990,9277
+Bandung Barat;2021;Perkotaan;Berbusa;Tidak;368641,3049
+Bandung Barat;2022;Perkotaan;Berbusa;Tidak;360202,8096
+Bandung Barat;2023;Perkotaan;Berbusa;Tidak;384644,9637
+Bandung Barat;2019;Perdesaan;Berwarna;Ya;612,7744598
+Bandung Barat;2022;Perdesaan;Berwarna;Ya;1123,850856
+Bandung Barat;2023;Perdesaan;Berwarna;Ya;341,3494004
+Bandung Barat;2019;Perkotaan;Berwarna;Ya;3055,754211
+Bandung Barat;2020;Perkotaan;Berwarna;Ya;3003,4776
+Bandung Barat;2021;Perkotaan;Berwarna;Ya;615,828064
+Bandung Barat;2022;Perkotaan;Berwarna;Ya;3436,722111
+Bandung Barat;2023;Perkotaan;Berwarna;Ya;498,4608383
+Bandung Barat;2019;Perdesaan;Berwarna;Tidak;130214,7407
+Bandung Barat;2020;Perdesaan;Berwarna;Tidak;131393,2369
+Bandung Barat;2021;Perdesaan;Berwarna;Tidak;120293,8842
+Bandung Barat;2022;Perdesaan;Berwarna;Tidak;113396,4176
+Bandung Barat;2023;Perdesaan;Berwarna;Tidak;106283,6765
+Bandung Barat;2019;Perkotaan;Berwarna;Tidak;335637,2903
+Bandung Barat;2020;Perkotaan;Berwarna;Tidak;333537,674
+Bandung Barat;2021;Perkotaan;Berwarna;Tidak;368025,4768
+Bandung Barat;2022;Perkotaan;Berwarna;Tidak;357666,9766
+Bandung Barat;2023;Perkotaan;Berwarna;Tidak;384146,5029
+Bandung Barat;2019;Perdesaan;Keruh;Ya;728,9081573
+Bandung Barat;2020;Perdesaan;Keruh;Ya;967,9234619
+Bandung Barat;2021;Perdesaan;Keruh;Ya;1746,253571
+Bandung Barat;2022;Perdesaan;Keruh;Ya;1606,003756
+Bandung Barat;2023;Perdesaan;Keruh;Ya;1311,830142
+Bandung Barat;2019;Perkotaan;Keruh;Ya;10070,65459
+Bandung Barat;2020;Perkotaan;Keruh;Ya;5145,513763
+Bandung Barat;2021;Perkotaan;Keruh;Ya;3527,155304
+Bandung Barat;2022;Perkotaan;Keruh;Ya;5081,950325
+Bandung Barat;2023;Perkotaan;Keruh;Ya;4758,443493
+Bandung Barat;2019;Perdesaan;Keruh;Tidak;130098,607
+Bandung Barat;2020;Perdesaan;Keruh;Tidak;130425,3134
+Bandung Barat;2021;Perdesaan;Keruh;Tidak;118547,6306
+Bandung Barat;2022;Perdesaan;Keruh;Tidak;112914,2647
+Bandung Barat;2023;Perdesaan;Keruh;Tidak;105313,1958
+Bandung Barat;2019;Perkotaan;Keruh;Tidak;328622,3899
+Bandung Barat;2020;Perkotaan;Keruh;Tidak;331395,6378
+Bandung Barat;2021;Perkotaan;Keruh;Tidak;365114,1496
+Bandung Barat;2022;Perkotaan;Keruh;Tidak;356021,7484
+Bandung Barat;2023;Perkotaan;Keruh;Tidak;379886,5202
+Bekasi;2019;Perdesaan;Berasa;Ya;729,2807617
+Bekasi;2020;Perdesaan;Berasa;Ya;3361,479222
+Bekasi;2021;Perdesaan;Berasa;Ya;859,3502078
+Bekasi;2022;Perdesaan;Berasa;Ya;2793,06131
+Bekasi;2023;Perdesaan;Berasa;Ya;139,058787
+Bekasi;2019;Perkotaan;Berasa;Ya;17843,62811
+Bekasi;2020;Perkotaan;Berasa;Ya;37442,60095
+Bekasi;2021;Perkotaan;Berasa;Ya;53890,58455
+Bekasi;2022;Perkotaan;Berasa;Ya;8715,293717
+Bekasi;2023;Perkotaan;Berasa;Ya;6154,072852
+Bekasi;2019;Perdesaan;Berasa;Tidak;81490,44474
+Bekasi;2020;Perdesaan;Berasa;Tidak;79959,70772
+Bekasi;2021;Perdesaan;Berasa;Tidak;55715,55446
+Bekasi;2022;Perdesaan;Berasa;Tidak;56365,37308
+Bekasi;2023;Perdesaan;Berasa;Tidak;40743,36947
+Bekasi;2019;Perkotaan;Berasa;Tidak;922883,304
+Bekasi;2020;Perkotaan;Berasa;Tidak;965663,2192
+Bekasi;2021;Perkotaan;Berasa;Tidak;998108,8517
+Bekasi;2022;Perkotaan;Berasa;Tidak;1063132,093
+Bekasi;2023;Perkotaan;Berasa;Tidak;1050400,709
+Bekasi;2019;Perdesaan;Berbau;Ya;1776,056412
+Bekasi;2019;Perkotaan;Berbau;Ya;20905,13036
+Bekasi;2020;Perkotaan;Berbau;Ya;18892,08777
+Bekasi;2021;Perkotaan;Berbau;Ya;16613,5379
+Bekasi;2022;Perkotaan;Berbau;Ya;11351,53648
+Bekasi;2023;Perkotaan;Berbau;Ya;14910,79768
+Bekasi;2019;Perdesaan;Berbau;Tidak;80443,66909
+Bekasi;2020;Perdesaan;Berbau;Tidak;83321,18695
+Bekasi;2021;Perdesaan;Berbau;Tidak;56574,90467
+Bekasi;2022;Perdesaan;Berbau;Tidak;59158,43439
+Bekasi;2023;Perdesaan;Berbau;Tidak;40882,42825
+Bekasi;2019;Perkotaan;Berbau;Tidak;919821,8018
+Bekasi;2020;Perkotaan;Berbau;Tidak;984213,7323
+Bekasi;2021;Perkotaan;Berbau;Tidak;1035385,898
+Bekasi;2022;Perkotaan;Berbau;Tidak;1060495,85
+Bekasi;2023;Perkotaan;Berbau;Tidak;1041643,984
+Bekasi;2019;Perdesaan;Berbusa;Ya;446,8642883
+Bekasi;2019;Perkotaan;Berbusa;Ya;1562,194336
+Bekasi;2020;Perkotaan;Berbusa;Ya;3843,689026
+Bekasi;2021;Perkotaan;Berbusa;Ya;2961,330017
+Bekasi;2022;Perkotaan;Berbusa;Ya;5672,780998
+Bekasi;2023;Perkotaan;Berbusa;Ya;5432,630646
+Bekasi;2019;Perdesaan;Berbusa;Tidak;81772,86122
+Bekasi;2020;Perdesaan;Berbusa;Tidak;83321,18695
+Bekasi;2021;Perdesaan;Berbusa;Tidak;56574,90467
+Bekasi;2022;Perdesaan;Berbusa;Tidak;59158,43439
+Bekasi;2023;Perdesaan;Berbusa;Tidak;40882,42825
+Bekasi;2019;Perkotaan;Berbusa;Tidak;939164,7378
+Bekasi;2020;Perkotaan;Berbusa;Tidak;999262,1311
+Bekasi;2021;Perkotaan;Berbusa;Tidak;1049038,106
+Bekasi;2022;Perkotaan;Berbusa;Tidak;1066174,606
+Bekasi;2023;Perkotaan;Berbusa;Tidak;1051122,151
+Bekasi;2019;Perdesaan;Berwarna;Ya;2254,450836
+Bekasi;2022;Perdesaan;Berwarna;Ya;1082,779703
+Bekasi;2023;Perdesaan;Berwarna;Ya;8881,666856
+Bekasi;2019;Perkotaan;Berwarna;Ya;11514,82776
+Bekasi;2020;Perkotaan;Berwarna;Ya;22446,83371
+Bekasi;2021;Perkotaan;Berwarna;Ya;33755,95245
+Bekasi;2022;Perkotaan;Berwarna;Ya;8646,582749
+Bekasi;2023;Perkotaan;Berwarna;Ya;8329,313942
+Bekasi;2019;Perdesaan;Berwarna;Tidak;79965,27467
+Bekasi;2020;Perdesaan;Berwarna;Tidak;83321,18695
+Bekasi;2021;Perdesaan;Berwarna;Tidak;56574,90467
+Bekasi;2022;Perdesaan;Berwarna;Tidak;58075,65468
+Bekasi;2023;Perdesaan;Berwarna;Tidak;32000,7614
+Bekasi;2019;Perkotaan;Berwarna;Tidak;929212,1044
+Bekasi;2020;Perkotaan;Berwarna;Tidak;980658,9864
+Bekasi;2021;Perkotaan;Berwarna;Tidak;1018243,484
+Bekasi;2022;Perkotaan;Berwarna;Tidak;1063200,804
+Bekasi;2023;Perkotaan;Berwarna;Tidak;1048225,468
+Bekasi;2019;Perdesaan;Keruh;Ya;2794,68267
+Bekasi;2020;Perdesaan;Keruh;Ya;651,4682007
+Bekasi;2022;Perdesaan;Keruh;Ya;7752,30852
+Bekasi;2023;Perdesaan;Keruh;Ya;518,4487922
+Bekasi;2019;Perkotaan;Keruh;Ya;29464,90192
+Bekasi;2020;Perkotaan;Keruh;Ya;44039,19489
+Bekasi;2021;Perkotaan;Keruh;Ya;33609,39569
+Bekasi;2022;Perkotaan;Keruh;Ya;38678,92811
+Bekasi;2023;Perkotaan;Keruh;Ya;12367,81946
+Bekasi;2019;Perdesaan;Keruh;Tidak;79425,04283
+Bekasi;2020;Perdesaan;Keruh;Tidak;82669,71875
+Bekasi;2021;Perdesaan;Keruh;Tidak;56574,90467
+Bekasi;2022;Perdesaan;Keruh;Tidak;51406,12587
+Bekasi;2023;Perdesaan;Keruh;Tidak;40363,97946
+Bekasi;2019;Perkotaan;Keruh;Tidak;911262,0302
+Bekasi;2020;Perkotaan;Keruh;Tidak;959066,6252
+Bekasi;2021;Perkotaan;Keruh;Tidak;1018390,041
+Bekasi;2022;Perkotaan;Keruh;Tidak;1033168,459
+Bekasi;2023;Perkotaan;Keruh;Tidak;1044186,962
+Bogor;2022;Perdesaan;Berasa;Ya;4496,601092
+Bogor;2023;Perdesaan;Berasa;Ya;148,7028157
+Bogor;2019;Perkotaan;Berasa;Ya;14303,40918
+Bogor;2020;Perkotaan;Berasa;Ya;19946,07489
+Bogor;2021;Perkotaan;Berasa;Ya;19561,33226
+Bogor;2022;Perkotaan;Berasa;Ya;33652,01217
+Bogor;2023;Perkotaan;Berasa;Ya;19834,65141
+Bogor;2019;Perdesaan;Berasa;Tidak;143839,9443
+Bogor;2020;Perdesaan;Berasa;Tidak;151693,0075
+Bogor;2021;Perdesaan;Berasa;Tidak;119463,4882
+Bogor;2022;Perdesaan;Berasa;Tidak;111596,2389
+Bogor;2023;Perdesaan;Berasa;Tidak;84926,82494
+Bogor;2019;Perkotaan;Berasa;Tidak;1366973,555
+Bogor;2020;Perkotaan;Berasa;Tidak;1372414,805
+Bogor;2021;Perkotaan;Berasa;Tidak;1513067,592
+Bogor;2022;Perkotaan;Berasa;Tidak;1516620,787
+Bogor;2023;Perkotaan;Berasa;Tidak;1396584,761
+Bogor;2019;Perdesaan;Berbau;Ya;1131,950306
+Bogor;2022;Perdesaan;Berbau;Ya;2585,291258
+Bogor;2023;Perdesaan;Berbau;Ya;426,5864205
+Bogor;2019;Perkotaan;Berbau;Ya;16594,81299
+Bogor;2020;Perkotaan;Berbau;Ya;10077,2533
+Bogor;2021;Perkotaan;Berbau;Ya;32297,39488
+Bogor;2022;Perkotaan;Berbau;Ya;50302,14221
+Bogor;2023;Perkotaan;Berbau;Ya;17090,59375
+Bogor;2019;Perdesaan;Berbau;Tidak;142707,994
+Bogor;2020;Perdesaan;Berbau;Tidak;151693,0075
+Bogor;2021;Perdesaan;Berbau;Tidak;119463,4882
+Bogor;2022;Perdesaan;Berbau;Tidak;113507,5487
+Bogor;2023;Perdesaan;Berbau;Tidak;84648,94133
+Bogor;2019;Perkotaan;Berbau;Tidak;1364682,152
+Bogor;2020;Perkotaan;Berbau;Tidak;1382283,627
+Bogor;2021;Perkotaan;Berbau;Tidak;1500331,529
+Bogor;2022;Perkotaan;Berbau;Tidak;1499970,657
+Bogor;2023;Perkotaan;Berbau;Tidak;1399328,819
+Bogor;2019;Perdesaan;Berbusa;Ya;38,98445892
+Bogor;2022;Perdesaan;Berbusa;Ya;2128,965301
+Bogor;2019;Perkotaan;Berbusa;Ya;7448,573486
+Bogor;2020;Perkotaan;Berbusa;Ya;3550,280396
+Bogor;2021;Perkotaan;Berbusa;Ya;5673,630432
+Bogor;2022;Perkotaan;Berbusa;Ya;20747,04083
+Bogor;2023;Perkotaan;Berbusa;Ya;9634,259466
+Bogor;2019;Perdesaan;Berbusa;Tidak;143800,9598
+Bogor;2020;Perdesaan;Berbusa;Tidak;151693,0075
+Bogor;2021;Perdesaan;Berbusa;Tidak;119463,4882
+Bogor;2022;Perdesaan;Berbusa;Tidak;113963,8747
+Bogor;2023;Perdesaan;Berbusa;Tidak;85075,52775
+Bogor;2019;Perkotaan;Berbusa;Tidak;1373828,391
+Bogor;2020;Perkotaan;Berbusa;Tidak;1388810,599
+Bogor;2021;Perkotaan;Berbusa;Tidak;1526955,293
+Bogor;2022;Perkotaan;Berbusa;Tidak;1529525,758
+Bogor;2023;Perkotaan;Berbusa;Tidak;1406785,153
+Bogor;2019;Perdesaan;Berwarna;Ya;1092,965847
+Bogor;2022;Perdesaan;Berwarna;Ya;2493,421586
+Bogor;2023;Perdesaan;Berwarna;Ya;357,8569678
+Bogor;2019;Perkotaan;Berwarna;Ya;24994,0741
+Bogor;2020;Perkotaan;Berwarna;Ya;13917,92755
+Bogor;2021;Perkotaan;Berwarna;Ya;12003,41367
+Bogor;2022;Perkotaan;Berwarna;Ya;50327,2895
+Bogor;2023;Perkotaan;Berwarna;Ya;24563,89007
+Bogor;2019;Perdesaan;Berwarna;Tidak;142746,9785
+Bogor;2020;Perdesaan;Berwarna;Tidak;151693,0075
+Bogor;2021;Perdesaan;Berwarna;Tidak;119463,4882
+Bogor;2022;Perdesaan;Berwarna;Tidak;113599,4184
+Bogor;2023;Perdesaan;Berwarna;Tidak;84717,67079
+Bogor;2019;Perkotaan;Berwarna;Tidak;1356282,891
+Bogor;2020;Perkotaan;Berwarna;Tidak;1378442,952
+Bogor;2021;Perkotaan;Berwarna;Tidak;1520625,51
+Bogor;2022;Perkotaan;Berwarna;Tidak;1499945,51
+Bogor;2023;Perkotaan;Berwarna;Tidak;1391855,522
+Bogor;2019;Perdesaan;Keruh;Ya;1107,903103
+Bogor;2020;Perdesaan;Keruh;Ya;1484,047119
+Bogor;2021;Perdesaan;Keruh;Ya;5304,727642
+Bogor;2022;Perdesaan;Keruh;Ya;3531,498507
+Bogor;2023;Perdesaan;Keruh;Ya;479,5261002
+Bogor;2019;Perkotaan;Keruh;Ya;34697,26605
+Bogor;2020;Perkotaan;Keruh;Ya;31291,08234
+Bogor;2021;Perkotaan;Keruh;Ya;22969,12589
+Bogor;2022;Perkotaan;Keruh;Ya;55061,63753
+Bogor;2023;Perkotaan;Keruh;Ya;44101,53394
+Bogor;2019;Perdesaan;Keruh;Tidak;142732,0412
+Bogor;2020;Perdesaan;Keruh;Tidak;150208,9603
+Bogor;2021;Perdesaan;Keruh;Tidak;114158,7605
+Bogor;2022;Perdesaan;Keruh;Tidak;112561,3415
+Bogor;2023;Perdesaan;Keruh;Tidak;84596,00165
+Bogor;2019;Perkotaan;Keruh;Tidak;1346579,699
+Bogor;2020;Perkotaan;Keruh;Tidak;1361069,798
+Bogor;2021;Perkotaan;Keruh;Tidak;1509659,798
+Bogor;2022;Perkotaan;Keruh;Tidak;1495211,162
+Bogor;2023;Perkotaan;Keruh;Tidak;1372317,878
+Ciamis;2020;Perdesaan;Berasa;Ya;544,9602661
+Ciamis;2021;Perdesaan;Berasa;Ya;301,263092
+Ciamis;2022;Perdesaan;Berasa;Ya;664,0426198
+Ciamis;2020;Perkotaan;Berasa;Ya;1209,801392
+Ciamis;2021;Perkotaan;Berasa;Ya;1582,920746
+Ciamis;2019;Perdesaan;Berasa;Tidak;227223,431
+Ciamis;2020;Perdesaan;Berasa;Tidak;230673,2859
+Ciamis;2021;Perdesaan;Berasa;Tidak;229196,2571
+Ciamis;2022;Perdesaan;Berasa;Tidak;213263,8207
+Ciamis;2023;Perdesaan;Berasa;Tidak;207867,2729
+Ciamis;2019;Perkotaan;Berasa;Tidak;158971,6673
+Ciamis;2020;Perkotaan;Berasa;Tidak;151544,2104
+Ciamis;2021;Perkotaan;Berasa;Tidak;164619,498
+Ciamis;2022;Perkotaan;Berasa;Tidak;156515,4918
+Ciamis;2023;Perkotaan;Berasa;Tidak;164949,6948
+Ciamis;2019;Perdesaan;Berbau;Ya;2819,023071
+Ciamis;2020;Perdesaan;Berbau;Ya;3737,543274
+Ciamis;2021;Perdesaan;Berbau;Ya;1155,528442
+Ciamis;2022;Perdesaan;Berbau;Ya;922,3569315
+Ciamis;2023;Perdesaan;Berbau;Ya;193,6150988
+Ciamis;2020;Perkotaan;Berbau;Ya;1865,955643
+Ciamis;2021;Perkotaan;Berbau;Ya;1958,198425
+Ciamis;2019;Perdesaan;Berbau;Tidak;224404,4079
+Ciamis;2020;Perdesaan;Berbau;Tidak;227480,7029
+Ciamis;2021;Perdesaan;Berbau;Tidak;228341,9917
+Ciamis;2022;Perdesaan;Berbau;Tidak;213005,5064
+Ciamis;2023;Perdesaan;Berbau;Tidak;207673,6578
+Ciamis;2019;Perkotaan;Berbau;Tidak;158971,6673
+Ciamis;2020;Perkotaan;Berbau;Tidak;150888,0562
+Ciamis;2021;Perkotaan;Berbau;Tidak;164244,2203
+Ciamis;2022;Perkotaan;Berbau;Tidak;156515,4918
+Ciamis;2023;Perkotaan;Berbau;Tidak;164949,6948
+Ciamis;2020;Perdesaan;Berbusa;Ya;282,4654846
+Ciamis;2022;Perdesaan;Berbusa;Ya;408,783317
+Ciamis;2020;Perkotaan;Berbusa;Ya;1209,801392
+Ciamis;2019;Perdesaan;Berbusa;Tidak;227223,431
+Ciamis;2020;Perdesaan;Berbusa;Tidak;230935,7807
+Ciamis;2021;Perdesaan;Berbusa;Tidak;229497,5201
+Ciamis;2022;Perdesaan;Berbusa;Tidak;213519,08
+Ciamis;2023;Perdesaan;Berbusa;Tidak;207867,2729
+Ciamis;2019;Perkotaan;Berbusa;Tidak;158971,6673
+Ciamis;2020;Perkotaan;Berbusa;Tidak;151544,2104
+Ciamis;2021;Perkotaan;Berbusa;Tidak;166202,4187
+Ciamis;2022;Perkotaan;Berbusa;Tidak;156515,4918
+Ciamis;2023;Perkotaan;Berbusa;Tidak;164949,6948
+Ciamis;2019;Perdesaan;Berwarna;Ya;3121,242157
+Ciamis;2020;Perdesaan;Berwarna;Ya;5066,118317
+Ciamis;2021;Perdesaan;Berwarna;Ya;782,4034576
+Ciamis;2022;Perdesaan;Berwarna;Ya;966,9887323
+Ciamis;2023;Perdesaan;Berwarna;Ya;1730,23721
+Ciamis;2020;Perkotaan;Berwarna;Ya;4389,150223
+Ciamis;2021;Perkotaan;Berwarna;Ya;2271,158264
+Ciamis;2022;Perkotaan;Berwarna;Ya;1982,179362
+Ciamis;2019;Perdesaan;Berwarna;Tidak;224102,1888
+Ciamis;2020;Perdesaan;Berwarna;Tidak;226152,1278
+Ciamis;2021;Perdesaan;Berwarna;Tidak;228715,1167
+Ciamis;2022;Perdesaan;Berwarna;Tidak;212960,8746
+Ciamis;2023;Perdesaan;Berwarna;Tidak;206137,0357
+Ciamis;2019;Perkotaan;Berwarna;Tidak;158971,6673
+Ciamis;2020;Perkotaan;Berwarna;Tidak;148364,8616
+Ciamis;2021;Perkotaan;Berwarna;Tidak;163931,2605
+Ciamis;2022;Perkotaan;Berwarna;Tidak;154533,3125
+Ciamis;2023;Perkotaan;Berwarna;Tidak;164949,6948
+Ciamis;2019;Perdesaan;Keruh;Ya;4050,439377
+Ciamis;2020;Perdesaan;Keruh;Ya;6291,86557
+Ciamis;2021;Perdesaan;Keruh;Ya;2752,986053
+Ciamis;2022;Perdesaan;Keruh;Ya;3322,809442
+Ciamis;2023;Perdesaan;Keruh;Ya;1501,347092
+Ciamis;2019;Perkotaan;Keruh;Ya;168,6320343
+Ciamis;2020;Perkotaan;Keruh;Ya;2742,949829
+Ciamis;2019;Perdesaan;Keruh;Tidak;223172,9916
+Ciamis;2020;Perdesaan;Keruh;Tidak;224926,3806
+Ciamis;2021;Perdesaan;Keruh;Tidak;226744,5341
+Ciamis;2022;Perdesaan;Keruh;Tidak;210605,0539
+Ciamis;2023;Perdesaan;Keruh;Tidak;206365,9258
+Ciamis;2019;Perkotaan;Keruh;Tidak;158803,0352
+Ciamis;2020;Perkotaan;Keruh;Tidak;150011,062
+Ciamis;2021;Perkotaan;Keruh;Tidak;166202,4187
+Ciamis;2022;Perkotaan;Keruh;Tidak;156515,4918
+Ciamis;2023;Perkotaan;Keruh;Tidak;164949,6948
+Cianjur;2019;Perdesaan;Berasa;Ya;2598,302246
+Cianjur;2020;Perdesaan;Berasa;Ya;2036,403214
+Cianjur;2022;Perdesaan;Berasa;Ya;2491,254435
+Cianjur;2023;Perdesaan;Berasa;Ya;831,6328555
+Cianjur;2020;Perkotaan;Berasa;Ya;508,2232666
+Cianjur;2021;Perkotaan;Berasa;Ya;2698,06311
+Cianjur;2022;Perkotaan;Berasa;Ya;4361,859209
+Cianjur;2023;Perkotaan;Berasa;Ya;4855,784954
+Cianjur;2019;Perdesaan;Berasa;Tidak;361737,684
+Cianjur;2020;Perdesaan;Berasa;Tidak;360986,5286
+Cianjur;2021;Perdesaan;Berasa;Tidak;393525,7483
+Cianjur;2022;Perdesaan;Berasa;Tidak;367447,0859
+Cianjur;2023;Perdesaan;Berasa;Tidak;358910,7167
+Cianjur;2019;Perkotaan;Berasa;Tidak;283632,055
+Cianjur;2020;Perkotaan;Berasa;Tidak;285848,2612
+Cianjur;2021;Perkotaan;Berasa;Tidak;313393,6161
+Cianjur;2022;Perkotaan;Berasa;Tidak;304214,9464
+Cianjur;2023;Perkotaan;Berasa;Tidak;330250,3485
+Cianjur;2019;Perdesaan;Berbau;Ya;1954,734619
+Cianjur;2020;Perdesaan;Berbau;Ya;2038,487122
+Cianjur;2021;Perdesaan;Berbau;Ya;813,0092773
+Cianjur;2022;Perdesaan;Berbau;Ya;1304,187315
+Cianjur;2019;Perkotaan;Berbau;Ya;1496,077057
+Cianjur;2020;Perkotaan;Berbau;Ya;810,074646
+Cianjur;2021;Perkotaan;Berbau;Ya;3664,606995
+Cianjur;2022;Perkotaan;Berbau;Ya;2096,617863
+Cianjur;2023;Perkotaan;Berbau;Ya;5926,287929
+Cianjur;2019;Perdesaan;Berbau;Tidak;362381,2517
+Cianjur;2020;Perdesaan;Berbau;Tidak;360984,4447
+Cianjur;2021;Perdesaan;Berbau;Tidak;392712,7391
+Cianjur;2022;Perdesaan;Berbau;Tidak;368634,153
+Cianjur;2023;Perdesaan;Berbau;Tidak;359742,3495
+Cianjur;2019;Perkotaan;Berbau;Tidak;282135,9779
+Cianjur;2020;Perkotaan;Berbau;Tidak;285546,4098
+Cianjur;2021;Perkotaan;Berbau;Tidak;312427,0722
+Cianjur;2022;Perkotaan;Berbau;Tidak;306480,1877
+Cianjur;2023;Perkotaan;Berbau;Tidak;329179,8455
+Cianjur;2019;Perdesaan;Berbusa;Ya;1136,813965
+Cianjur;2020;Perdesaan;Berbusa;Ya;1142,006775
+Cianjur;2019;Perkotaan;Berbusa;Ya;956,6286926
+Cianjur;2021;Perkotaan;Berbusa;Ya;725,6149902
+Cianjur;2023;Perkotaan;Berbusa;Ya;1608,724661
+Cianjur;2019;Perdesaan;Berbusa;Tidak;363199,1723
+Cianjur;2020;Perdesaan;Berbusa;Tidak;361880,925
+Cianjur;2021;Perdesaan;Berbusa;Tidak;393525,7483
+Cianjur;2022;Perdesaan;Berbusa;Tidak;369938,3403
+Cianjur;2023;Perdesaan;Berbusa;Tidak;359742,3495
+Cianjur;2019;Perkotaan;Berbusa;Tidak;282675,4263
+Cianjur;2020;Perkotaan;Berbusa;Tidak;286356,4845
+Cianjur;2021;Perkotaan;Berbusa;Tidak;315366,0642
+Cianjur;2022;Perkotaan;Berbusa;Tidak;308576,8056
+Cianjur;2023;Perkotaan;Berbusa;Tidak;333497,4088
+Cianjur;2019;Perdesaan;Berwarna;Ya;5267,238876
+Cianjur;2020;Perdesaan;Berwarna;Ya;5288,478271
+Cianjur;2021;Perdesaan;Berwarna;Ya;7614,305206
+Cianjur;2022;Perdesaan;Berwarna;Ya;3807,96384
+Cianjur;2023;Perdesaan;Berwarna;Ya;570,7644122
+Cianjur;2019;Perkotaan;Berwarna;Ya;716,5395508
+Cianjur;2020;Perkotaan;Berwarna;Ya;508,2232666
+Cianjur;2021;Perkotaan;Berwarna;Ya;725,6149902
+Cianjur;2022;Perkotaan;Berwarna;Ya;1096,182047
+Cianjur;2023;Perkotaan;Berwarna;Ya;2706,156837
+Cianjur;2019;Perdesaan;Berwarna;Tidak;359068,7474
+Cianjur;2020;Perdesaan;Berwarna;Tidak;357734,4535
+Cianjur;2021;Perdesaan;Berwarna;Tidak;385911,4431
+Cianjur;2022;Perdesaan;Berwarna;Tidak;366130,3765
+Cianjur;2023;Perdesaan;Berwarna;Tidak;359171,5851
+Cianjur;2019;Perkotaan;Berwarna;Tidak;282915,5154
+Cianjur;2020;Perkotaan;Berwarna;Tidak;285848,2612
+Cianjur;2021;Perkotaan;Berwarna;Tidak;315366,0642
+Cianjur;2022;Perkotaan;Berwarna;Tidak;307480,6235
+Cianjur;2023;Perkotaan;Berwarna;Tidak;332399,9766
+Cianjur;2019;Perdesaan;Keruh;Ya;13035,5275
+Cianjur;2020;Perdesaan;Keruh;Ya;8909,093536
+Cianjur;2021;Perdesaan;Keruh;Ya;14139,34984
+Cianjur;2022;Perdesaan;Keruh;Ya;3790,366517
+Cianjur;2023;Perdesaan;Keruh;Ya;4945,127208
+Cianjur;2019;Perkotaan;Keruh;Ya;3445,042709
+Cianjur;2020;Perkotaan;Keruh;Ya;8672,644653
+Cianjur;2021;Perkotaan;Keruh;Ya;4611,027039
+Cianjur;2022;Perkotaan;Keruh;Ya;4381,124556
+Cianjur;2023;Perkotaan;Keruh;Ya;6525,793536
+Cianjur;2019;Perdesaan;Keruh;Tidak;351300,4588
+Cianjur;2020;Perdesaan;Keruh;Tidak;354113,8383
+Cianjur;2021;Perdesaan;Keruh;Tidak;379386,3985
+Cianjur;2022;Perdesaan;Keruh;Tidak;366147,9738
+Cianjur;2023;Perdesaan;Keruh;Tidak;354797,2223
+Cianjur;2019;Perkotaan;Keruh;Tidak;280187,0123
+Cianjur;2020;Perkotaan;Keruh;Tidak;277683,8398
+Cianjur;2021;Perkotaan;Keruh;Tidak;311480,6522
+Cianjur;2022;Perkotaan;Keruh;Tidak;304195,681
+Cianjur;2023;Perkotaan;Keruh;Tidak;328580,3399
+Cirebon;2019;Perdesaan;Berasa;Ya;592,8878174
+Cirebon;2020;Perdesaan;Berasa;Ya;611,9836273
+Cirebon;2021;Perdesaan;Berasa;Ya;811,0342546
+Cirebon;2022;Perdesaan;Berasa;Ya;808,3585533
+Cirebon;2023;Perdesaan;Berasa;Ya;3142,485877
+Cirebon;2019;Perkotaan;Berasa;Ya;4825,322113
+Cirebon;2020;Perkotaan;Berasa;Ya;2654,098328
+Cirebon;2021;Perkotaan;Berasa;Ya;6954,204529
+Cirebon;2022;Perkotaan;Berasa;Ya;7059,377431
+Cirebon;2023;Perkotaan;Berasa;Ya;18256,42745
+Cirebon;2019;Perdesaan;Berasa;Tidak;70641,25357
+Cirebon;2020;Perdesaan;Berasa;Tidak;72452,62377
+Cirebon;2021;Perdesaan;Berasa;Tidak;58541,97775
+Cirebon;2022;Perdesaan;Berasa;Tidak;56256,00954
+Cirebon;2023;Perdesaan;Berasa;Tidak;41470,52276
+Cirebon;2019;Perkotaan;Berasa;Tidak;529278,5214
+Cirebon;2020;Perkotaan;Berasa;Tidak;522714,246
+Cirebon;2021;Perkotaan;Berasa;Tidak;573716,6675
+Cirebon;2022;Perkotaan;Berasa;Tidak;571092,0955
+Cirebon;2023;Perkotaan;Berasa;Tidak;562799,6797
+Cirebon;2019;Perdesaan;Berbau;Ya;527,3850708
+Cirebon;2020;Perdesaan;Berbau;Ya;1308,562218
+Cirebon;2021;Perdesaan;Berbau;Ya;983,4906158
+Cirebon;2022;Perdesaan;Berbau;Ya;271,1517063
+Cirebon;2023;Perdesaan;Berbau;Ya;366,7661899
+Cirebon;2019;Perkotaan;Berbau;Ya;8881,111786
+Cirebon;2020;Perkotaan;Berbau;Ya;5953,000977
+Cirebon;2021;Perkotaan;Berbau;Ya;7448,202881
+Cirebon;2022;Perkotaan;Berbau;Ya;8908,79505
+Cirebon;2023;Perkotaan;Berbau;Ya;3527,401238
+Cirebon;2019;Perdesaan;Berbau;Tidak;70706,75632
+Cirebon;2020;Perdesaan;Berbau;Tidak;71756,04518
+Cirebon;2021;Perdesaan;Berbau;Tidak;58369,52139
+Cirebon;2022;Perdesaan;Berbau;Tidak;56793,21639
+Cirebon;2023;Perdesaan;Berbau;Tidak;44246,24245
+Cirebon;2019;Perkotaan;Berbau;Tidak;525222,7318
+Cirebon;2020;Perkotaan;Berbau;Tidak;519415,3434
+Cirebon;2021;Perkotaan;Berbau;Tidak;573222,6691
+Cirebon;2022;Perkotaan;Berbau;Tidak;569242,6779
+Cirebon;2023;Perkotaan;Berbau;Tidak;577528,7059
+Cirebon;2020;Perdesaan;Berbusa;Ya;176,492569
+Cirebon;2021;Perdesaan;Berbusa;Ya;292,4414978
+Cirebon;2023;Perdesaan;Berbusa;Ya;351,7644597
+Cirebon;2019;Perkotaan;Berbusa;Ya;3641,572083
+Cirebon;2020;Perkotaan;Berbusa;Ya;2506,141235
+Cirebon;2021;Perkotaan;Berbusa;Ya;2601,013672
+Cirebon;2022;Perkotaan;Berbusa;Ya;1010,248033
+Cirebon;2023;Perkotaan;Berbusa;Ya;235,9136761
+Cirebon;2019;Perdesaan;Berbusa;Tidak;71234,14139
+Cirebon;2020;Perdesaan;Berbusa;Tidak;72888,11483
+Cirebon;2021;Perdesaan;Berbusa;Tidak;59060,57051
+Cirebon;2022;Perdesaan;Berbusa;Tidak;57064,36809
+Cirebon;2023;Perdesaan;Berbusa;Tidak;44261,24418
+Cirebon;2019;Perkotaan;Berbusa;Tidak;530462,2715
+Cirebon;2020;Perkotaan;Berbusa;Tidak;522862,2031
+Cirebon;2021;Perkotaan;Berbusa;Tidak;578069,8583
+Cirebon;2022;Perkotaan;Berbusa;Tidak;577141,2249
+Cirebon;2023;Perkotaan;Berbusa;Tidak;580820,1935
+Cirebon;2019;Perdesaan;Berwarna;Ya;789,9093018
+Cirebon;2020;Perdesaan;Berwarna;Ya;1809,174576
+Cirebon;2021;Perdesaan;Berwarna;Ya;508,2233109
+Cirebon;2022;Perdesaan;Berwarna;Ya;320,8105716
+Cirebon;2023;Perdesaan;Berwarna;Ya;540,5896455
+Cirebon;2019;Perkotaan;Berwarna;Ya;10470,09012
+Cirebon;2020;Perkotaan;Berwarna;Ya;4749,480652
+Cirebon;2021;Perkotaan;Berwarna;Ya;4343,686066
+Cirebon;2022;Perkotaan;Berwarna;Ya;8237,426497
+Cirebon;2023;Perkotaan;Berwarna;Ya;2308,496011
+Cirebon;2019;Perdesaan;Berwarna;Tidak;70444,23209
+Cirebon;2020;Perdesaan;Berwarna;Tidak;71255,43282
+Cirebon;2021;Perdesaan;Berwarna;Tidak;58844,78869
+Cirebon;2022;Perdesaan;Berwarna;Tidak;56743,55752
+Cirebon;2023;Perdesaan;Berwarna;Tidak;44072,41899
+Cirebon;2019;Perkotaan;Berwarna;Tidak;523633,7534
+Cirebon;2020;Perkotaan;Berwarna;Tidak;520618,8637
+Cirebon;2021;Perkotaan;Berwarna;Tidak;576327,1859
+Cirebon;2022;Perkotaan;Berwarna;Tidak;569914,0464
+Cirebon;2023;Perkotaan;Berwarna;Tidak;578747,6112
+Cirebon;2019;Perdesaan;Keruh;Ya;917,8792725
+Cirebon;2020;Perdesaan;Keruh;Ya;643,8550262
+Cirebon;2021;Perdesaan;Keruh;Ya;523,5007005
+Cirebon;2022;Perdesaan;Keruh;Ya;491,6450778
+Cirebon;2023;Perdesaan;Keruh;Ya;540,5896455
+Cirebon;2019;Perkotaan;Keruh;Ya;11824,99875
+Cirebon;2020;Perkotaan;Keruh;Ya;8620,861237
+Cirebon;2021;Perkotaan;Keruh;Ya;9322,380768
+Cirebon;2022;Perkotaan;Keruh;Ya;15656,76723
+Cirebon;2023;Perkotaan;Keruh;Ya;3722,688175
+Cirebon;2019;Perdesaan;Keruh;Tidak;70316,26212
+Cirebon;2020;Perdesaan;Keruh;Tidak;72420,75237
+Cirebon;2021;Perdesaan;Keruh;Tidak;58829,5113
+Cirebon;2022;Perdesaan;Keruh;Tidak;56572,72301
+Cirebon;2023;Perdesaan;Keruh;Tidak;44072,41899
+Cirebon;2019;Perkotaan;Keruh;Tidak;522278,8448
+Cirebon;2020;Perkotaan;Keruh;Tidak;516747,4831
+Cirebon;2021;Perkotaan;Keruh;Tidak;571348,4912
+Cirebon;2022;Perkotaan;Keruh;Tidak;562494,7057
+Cirebon;2023;Perkotaan;Keruh;Tidak;577333,419
+Garut;2019;Perdesaan;Berasa;Ya;7396,301208
+Garut;2020;Perdesaan;Berasa;Ya;2928,226624
+Garut;2021;Perdesaan;Berasa;Ya;272,6246338
+Garut;2022;Perdesaan;Berasa;Ya;5672,20429
+Garut;2023;Perdesaan;Berasa;Ya;6479,311132
+Garut;2019;Perkotaan;Berasa;Ya;26956,9913
+Garut;2020;Perkotaan;Berasa;Ya;368,1741028
+Garut;2021;Perkotaan;Berasa;Ya;4573,300659
+Garut;2022;Perkotaan;Berasa;Ya;3834,455955
+Garut;2023;Perkotaan;Berasa;Ya;7878,593528
+Garut;2019;Perdesaan;Berasa;Tidak;313785,434
+Garut;2020;Perdesaan;Berasa;Tidak;315524,3071
+Garut;2021;Perdesaan;Berasa;Tidak;332728,0078
+Garut;2022;Perdesaan;Berasa;Tidak;295056,2508
+Garut;2023;Perdesaan;Berasa;Tidak;270034,5753
+Garut;2019;Perkotaan;Berasa;Tidak;343763,619
+Garut;2020;Perkotaan;Berasa;Tidak;379463,6113
+Garut;2021;Perkotaan;Berasa;Tidak;392892,3804
+Garut;2022;Perkotaan;Berasa;Tidak;386458,5867
+Garut;2023;Perkotaan;Berasa;Tidak;384628,1134
+Garut;2019;Perdesaan;Berbau;Ya;1751,500031
+Garut;2020;Perdesaan;Berbau;Ya;2967,90802
+Garut;2022;Perdesaan;Berbau;Ya;5642,907035
+Garut;2023;Perdesaan;Berbau;Ya;1091,3437
+Garut;2019;Perkotaan;Berbau;Ya;2493,096436
+Garut;2020;Perkotaan;Berbau;Ya;1019,394257
+Garut;2021;Perkotaan;Berbau;Ya;5525,937653
+Garut;2022;Perkotaan;Berbau;Ya;3834,455955
+Garut;2019;Perdesaan;Berbau;Tidak;319430,2352
+Garut;2020;Perdesaan;Berbau;Tidak;315484,6257
+Garut;2021;Perdesaan;Berbau;Tidak;333000,6325
+Garut;2022;Perdesaan;Berbau;Tidak;295085,5481
+Garut;2023;Perdesaan;Berbau;Tidak;275422,5427
+Garut;2019;Perkotaan;Berbau;Tidak;368227,5138
+Garut;2020;Perkotaan;Berbau;Tidak;378812,3911
+Garut;2021;Perkotaan;Berbau;Tidak;391939,7434
+Garut;2022;Perkotaan;Berbau;Tidak;386458,5867
+Garut;2023;Perkotaan;Berbau;Tidak;392506,7069
+Garut;2019;Perdesaan;Berbusa;Ya;588,4274902
+Garut;2022;Perdesaan;Berbusa;Ya;1874,517808
+Garut;2023;Perdesaan;Berbusa;Ya;986,1759639
+Garut;2021;Perkotaan;Berbusa;Ya;3729,07959
+Garut;2022;Perkotaan;Berbusa;Ya;3834,455955
+Garut;2019;Perdesaan;Berbusa;Tidak;320593,3078
+Garut;2020;Perdesaan;Berbusa;Tidak;318452,5338
+Garut;2021;Perdesaan;Berbusa;Tidak;333000,6325
+Garut;2022;Perdesaan;Berbusa;Tidak;298853,9373
+Garut;2023;Perdesaan;Berbusa;Tidak;275527,7105
+Garut;2019;Perkotaan;Berbusa;Tidak;370720,6103
+Garut;2020;Perkotaan;Berbusa;Tidak;379831,7854
+Garut;2021;Perkotaan;Berbusa;Tidak;393736,6014
+Garut;2022;Perkotaan;Berbusa;Tidak;386458,5867
+Garut;2023;Perkotaan;Berbusa;Tidak;392506,7069
+Garut;2019;Perdesaan;Berwarna;Ya;4297,711731
+Garut;2020;Perdesaan;Berwarna;Ya;2352,298035
+Garut;2021;Perdesaan;Berwarna;Ya;741,8945313
+Garut;2022;Perdesaan;Berwarna;Ya;3946,096523
+Garut;2023;Perdesaan;Berwarna;Ya;6776,801641
+Garut;2019;Perkotaan;Berwarna;Ya;7635,776154
+Garut;2020;Perkotaan;Berwarna;Ya;5569,122589
+Garut;2021;Perkotaan;Berwarna;Ya;5989,483673
+Garut;2022;Perkotaan;Berwarna;Ya;3834,455955
+Garut;2023;Perkotaan;Berwarna;Ya;8288,726722
+Garut;2019;Perdesaan;Berwarna;Tidak;316884,0235
+Garut;2020;Perdesaan;Berwarna;Tidak;316100,2357
+Garut;2021;Perdesaan;Berwarna;Tidak;332258,7379
+Garut;2022;Perdesaan;Berwarna;Tidak;296782,3586
+Garut;2023;Perdesaan;Berwarna;Tidak;269737,0848
+Garut;2019;Perkotaan;Berwarna;Tidak;363084,8341
+Garut;2020;Perkotaan;Berwarna;Tidak;374262,6628
+Garut;2021;Perkotaan;Berwarna;Tidak;391476,1973
+Garut;2022;Perkotaan;Berwarna;Tidak;386458,5867
+Garut;2023;Perkotaan;Berwarna;Tidak;384217,9802
+Garut;2019;Perdesaan;Keruh;Ya;6174,174561
+Garut;2020;Perdesaan;Keruh;Ya;16432,34988
+Garut;2021;Perdesaan;Keruh;Ya;9205,796417
+Garut;2022;Perdesaan;Keruh;Ya;6286,992422
+Garut;2023;Perdesaan;Keruh;Ya;4796,083219
+Garut;2019;Perkotaan;Keruh;Ya;11817,32022
+Garut;2020;Perkotaan;Keruh;Ya;1019,394257
+Garut;2021;Perkotaan;Keruh;Ya;16331,71329
+Garut;2022;Perkotaan;Keruh;Ya;4737,418111
+Garut;2023;Perkotaan;Keruh;Ya;3324,959001
+Garut;2019;Perdesaan;Keruh;Tidak;315007,5607
+Garut;2020;Perdesaan;Keruh;Tidak;302020,1839
+Garut;2021;Perdesaan;Keruh;Tidak;323794,8361
+Garut;2022;Perdesaan;Keruh;Tidak;294441,4627
+Garut;2023;Perdesaan;Keruh;Tidak;271717,8032
+Garut;2019;Perkotaan;Keruh;Tidak;358903,29
+Garut;2020;Perkotaan;Keruh;Tidak;378812,3911
+Garut;2021;Perkotaan;Keruh;Tidak;381133,9677
+Garut;2022;Perkotaan;Keruh;Tidak;385555,6246
+Garut;2023;Perkotaan;Keruh;Tidak;389181,7479
+Indramayu;2019;Perdesaan;Berasa;Ya;4852,375214
+Indramayu;2020;Perdesaan;Berasa;Ya;2332,181946
+Indramayu;2021;Perdesaan;Berasa;Ya;1743,694153
+Indramayu;2022;Perdesaan;Berasa;Ya;1657,334113
+Indramayu;2023;Perdesaan;Berasa;Ya;7411,258385
+Indramayu;2019;Perkotaan;Berasa;Ya;7302,173523
+Indramayu;2020;Perkotaan;Berasa;Ya;1448,683411
+Indramayu;2021;Perkotaan;Berasa;Ya;3155,567963
+Indramayu;2022;Perkotaan;Berasa;Ya;5758,408796
+Indramayu;2023;Perkotaan;Berasa;Ya;3166,095863
+Indramayu;2019;Perdesaan;Berasa;Tidak;255745,5739
+Indramayu;2020;Perdesaan;Berasa;Tidak;257098,8376
+Indramayu;2021;Perdesaan;Berasa;Tidak;263066,2014
+Indramayu;2022;Perdesaan;Berasa;Tidak;245755,4497
+Indramayu;2023;Perdesaan;Berasa;Tidak;227964,1194
+Indramayu;2019;Perkotaan;Berasa;Tidak;270273,2513
+Indramayu;2020;Perkotaan;Berasa;Tidak;290495,4611
+Indramayu;2021;Perkotaan;Berasa;Tidak;296891,2765
+Indramayu;2022;Perkotaan;Berasa;Tidak;288051,0009
+Indramayu;2023;Perkotaan;Berasa;Tidak;314445,9022
+Indramayu;2019;Perdesaan;Berbau;Ya;6747,412643
+Indramayu;2020;Perdesaan;Berbau;Ya;2322,912231
+Indramayu;2021;Perdesaan;Berbau;Ya;769,3965454
+Indramayu;2022;Perdesaan;Berbau;Ya;645,3074812
+Indramayu;2023;Perdesaan;Berbau;Ya;567,6149972
+Indramayu;2019;Perkotaan;Berbau;Ya;9069,745605
+Indramayu;2020;Perkotaan;Berbau;Ya;1266,980835
+Indramayu;2021;Perkotaan;Berbau;Ya;775,4851685
+Indramayu;2022;Perkotaan;Berbau;Ya;1626,863522
+Indramayu;2023;Perkotaan;Berbau;Ya;8477,806447
+Indramayu;2019;Perdesaan;Berbau;Tidak;253850,5365
+Indramayu;2020;Perdesaan;Berbau;Tidak;257108,1073
+Indramayu;2021;Perdesaan;Berbau;Tidak;264040,499
+Indramayu;2022;Perdesaan;Berbau;Tidak;246767,4763
+Indramayu;2023;Perdesaan;Berbau;Tidak;234807,7628
+Indramayu;2019;Perkotaan;Berbau;Tidak;268505,6792
+Indramayu;2020;Perkotaan;Berbau;Tidak;290677,1637
+Indramayu;2021;Perkotaan;Berbau;Tidak;299271,3593
+Indramayu;2022;Perkotaan;Berbau;Tidak;292182,5461
+Indramayu;2023;Perkotaan;Berbau;Tidak;309134,1916
+Indramayu;2019;Perkotaan;Berbusa;Ya;912,7347717
+Indramayu;2021;Perkotaan;Berbusa;Ya;3413,433594
+Indramayu;2023;Perkotaan;Berbusa;Ya;2115,966922
+Indramayu;2019;Perdesaan;Berbusa;Tidak;260597,9492
+Indramayu;2020;Perdesaan;Berbusa;Tidak;259431,0196
+Indramayu;2021;Perdesaan;Berbusa;Tidak;264809,8955
+Indramayu;2022;Perdesaan;Berbusa;Tidak;247412,7838
+Indramayu;2023;Perdesaan;Berbusa;Tidak;235375,3778
+Indramayu;2019;Perkotaan;Berbusa;Tidak;276662,6901
+Indramayu;2020;Perkotaan;Berbusa;Tidak;291944,1445
+Indramayu;2021;Perkotaan;Berbusa;Tidak;296633,4109
+Indramayu;2022;Perkotaan;Berbusa;Tidak;293809,4097
+Indramayu;2023;Perkotaan;Berbusa;Tidak;315496,0311
+Indramayu;2019;Perdesaan;Berwarna;Ya;3527,017578
+Indramayu;2020;Perdesaan;Berwarna;Ya;185,6190796
+Indramayu;2022;Perdesaan;Berwarna;Ya;334,1224527
+Indramayu;2023;Perdesaan;Berwarna;Ya;1834,317436
+Indramayu;2019;Perkotaan;Berwarna;Ya;6564,247803
+Indramayu;2020;Perkotaan;Berwarna;Ya;1585,340729
+Indramayu;2021;Perkotaan;Berwarna;Ya;501,0163879
+Indramayu;2022;Perkotaan;Berwarna;Ya;1574,023448
+Indramayu;2023;Perkotaan;Berwarna;Ya;1367,96078
+Indramayu;2019;Perdesaan;Berwarna;Tidak;257070,9316
+Indramayu;2020;Perdesaan;Berwarna;Tidak;259245,4005
+Indramayu;2021;Perdesaan;Berwarna;Tidak;264809,8955
+Indramayu;2022;Perdesaan;Berwarna;Tidak;247078,6613
+Indramayu;2023;Perdesaan;Berwarna;Tidak;233541,0604
+Indramayu;2019;Perkotaan;Berwarna;Tidak;271011,177
+Indramayu;2020;Perkotaan;Berwarna;Tidak;290358,8038
+Indramayu;2021;Perkotaan;Berwarna;Tidak;299545,8281
+Indramayu;2022;Perkotaan;Berwarna;Tidak;292235,3862
+Indramayu;2023;Perkotaan;Berwarna;Tidak;316244,0373
+Indramayu;2019;Perdesaan;Keruh;Ya;5067,723911
+Indramayu;2020;Perdesaan;Keruh;Ya;968,3653564
+Indramayu;2021;Perdesaan;Keruh;Ya;1329,103149
+Indramayu;2022;Perdesaan;Keruh;Ya;1848,067484
+Indramayu;2023;Perdesaan;Keruh;Ya;5866,175471
+Indramayu;2019;Perkotaan;Keruh;Ya;6299,105591
+Indramayu;2020;Perkotaan;Keruh;Ya;2032,753845
+Indramayu;2021;Perkotaan;Keruh;Ya;622,0094604
+Indramayu;2022;Perkotaan;Keruh;Ya;3041,38094
+Indramayu;2023;Perkotaan;Keruh;Ya;19399,16216
+Indramayu;2019;Perdesaan;Keruh;Tidak;255530,2252
+Indramayu;2020;Perdesaan;Keruh;Tidak;258462,6542
+Indramayu;2021;Perdesaan;Keruh;Tidak;263480,7924
+Indramayu;2022;Perdesaan;Keruh;Tidak;245564,7163
+Indramayu;2023;Perdesaan;Keruh;Tidak;229509,2023
+Indramayu;2019;Perkotaan;Keruh;Tidak;271276,3192
+Indramayu;2020;Perkotaan;Keruh;Tidak;289911,3907
+Indramayu;2021;Perkotaan;Keruh;Tidak;299424,835
+Indramayu;2022;Perkotaan;Keruh;Tidak;290768,0287
+Indramayu;2023;Perkotaan;Keruh;Tidak;298212,8359
+Karawang;2019;Perdesaan;Berasa;Ya;8871,271637
+Karawang;2020;Perdesaan;Berasa;Ya;8597,449112
+Karawang;2021;Perdesaan;Berasa;Ya;6626,244965
+Karawang;2022;Perdesaan;Berasa;Ya;5766,155862
+Karawang;2023;Perdesaan;Berasa;Ya;10248,40282
+Karawang;2019;Perkotaan;Berasa;Ya;14438,21927
+Karawang;2020;Perkotaan;Berasa;Ya;8345,839508
+Karawang;2021;Perkotaan;Berasa;Ya;5556,73053
+Karawang;2022;Perkotaan;Berasa;Ya;9825,424531
+Karawang;2023;Perkotaan;Berasa;Ya;6920,912058
+Karawang;2019;Perdesaan;Berasa;Tidak;182859,808
+Karawang;2020;Perdesaan;Berasa;Tidak;177109,2525
+Karawang;2021;Perdesaan;Berasa;Tidak;183054,0305
+Karawang;2022;Perdesaan;Berasa;Tidak;163153,8483
+Karawang;2023;Perdesaan;Berasa;Tidak;153488,4457
+Karawang;2019;Perkotaan;Berasa;Tidak;451776,7365
+Karawang;2020;Perkotaan;Berasa;Tidak;467188,0197
+Karawang;2021;Perkotaan;Berasa;Tidak;509197,2865
+Karawang;2022;Perkotaan;Berasa;Tidak;489045,8224
+Karawang;2023;Perkotaan;Berasa;Tidak;510424,1128
+Karawang;2019;Perdesaan;Berbau;Ya;1214,728241
+Karawang;2020;Perdesaan;Berbau;Ya;4276,472855
+Karawang;2022;Perdesaan;Berbau;Ya;2135,126865
+Karawang;2023;Perdesaan;Berbau;Ya;2002,905901
+Karawang;2019;Perkotaan;Berbau;Ya;2091,370789
+Karawang;2020;Perkotaan;Berbau;Ya;5712,609344
+Karawang;2021;Perkotaan;Berbau;Ya;2171,67688
+Karawang;2022;Perkotaan;Berbau;Ya;1011,160024
+Karawang;2023;Perkotaan;Berbau;Ya;2741,680473
+Karawang;2019;Perdesaan;Berbau;Tidak;190516,3514
+Karawang;2020;Perdesaan;Berbau;Tidak;181430,2287
+Karawang;2021;Perdesaan;Berbau;Tidak;189680,2755
+Karawang;2022;Perdesaan;Berbau;Tidak;166784,8773
+Karawang;2023;Perdesaan;Berbau;Tidak;161733,9427
+Karawang;2019;Perkotaan;Berbau;Tidak;464123,585
+Karawang;2020;Perkotaan;Berbau;Tidak;469821,2498
+Karawang;2021;Perkotaan;Berbau;Tidak;512582,3402
+Karawang;2022;Perkotaan;Berbau;Tidak;497860,087
+Karawang;2023;Perkotaan;Berbau;Tidak;514603,3444
+Karawang;2019;Perdesaan;Berbusa;Ya;3219,242249
+Karawang;2022;Perdesaan;Berbusa;Ya;313,4230072
+Karawang;2023;Perdesaan;Berbusa;Ya;1818,990801
+Karawang;2019;Perkotaan;Berbusa;Ya;3475,180298
+Karawang;2020;Perkotaan;Berbusa;Ya;990,8742065
+Karawang;2021;Perkotaan;Berbusa;Ya;1064,192749
+Karawang;2023;Perkotaan;Berbusa;Ya;43,36694919
+Karawang;2019;Perdesaan;Berbusa;Tidak;188511,8374
+Karawang;2020;Perdesaan;Berbusa;Tidak;185706,7016
+Karawang;2021;Perdesaan;Berbusa;Tidak;189680,2755
+Karawang;2022;Perdesaan;Berbusa;Tidak;168606,5812
+Karawang;2023;Perdesaan;Berbusa;Tidak;161917,8578
+Karawang;2019;Perkotaan;Berbusa;Tidak;462739,7755
+Karawang;2020;Perkotaan;Berbusa;Tidak;474542,985
+Karawang;2021;Perkotaan;Berbusa;Tidak;513689,8243
+Karawang;2022;Perkotaan;Berbusa;Tidak;498871,247
+Karawang;2023;Perkotaan;Berbusa;Tidak;517301,6579
+Karawang;2019;Perdesaan;Berwarna;Ya;3814,8797
+Karawang;2020;Perdesaan;Berwarna;Ya;2280,883514
+Karawang;2023;Perdesaan;Berwarna;Ya;3590,006517
+Karawang;2019;Perkotaan;Berwarna;Ya;2462,939392
+Karawang;2020;Perkotaan;Berwarna;Ya;10601,9249
+Karawang;2021;Perkotaan;Berwarna;Ya;1865,228943
+Karawang;2022;Perkotaan;Berwarna;Ya;2183,841855
+Karawang;2023;Perkotaan;Berwarna;Ya;2247,49261
+Karawang;2019;Perdesaan;Berwarna;Tidak;187916,1999
+Karawang;2020;Perdesaan;Berwarna;Tidak;183425,8181
+Karawang;2021;Perdesaan;Berwarna;Tidak;189680,2755
+Karawang;2022;Perdesaan;Berwarna;Tidak;168920,0042
+Karawang;2023;Perdesaan;Berwarna;Tidak;160146,842
+Karawang;2019;Perkotaan;Berwarna;Tidak;463752,0164
+Karawang;2020;Perkotaan;Berwarna;Tidak;464931,9343
+Karawang;2021;Perkotaan;Berwarna;Tidak;512888,7881
+Karawang;2022;Perkotaan;Berwarna;Tidak;496687,4051
+Karawang;2023;Perkotaan;Berwarna;Tidak;515097,5323
+Karawang;2019;Perdesaan;Keruh;Ya;4232,168564
+Karawang;2020;Perdesaan;Keruh;Ya;7374,636314
+Karawang;2021;Perdesaan;Keruh;Ya;476,2513733
+Karawang;2022;Perdesaan;Keruh;Ya;1403,358535
+Karawang;2023;Perdesaan;Keruh;Ya;1951,809368
+Karawang;2019;Perkotaan;Keruh;Ya;4293,315796
+Karawang;2020;Perkotaan;Keruh;Ya;6426,582428
+Karawang;2021;Perkotaan;Keruh;Ya;1573,788147
+Karawang;2022;Perkotaan;Keruh;Ya;4901,659076
+Karawang;2023;Perkotaan;Keruh;Ya;15635,50539
+Karawang;2019;Perdesaan;Keruh;Tidak;187498,9111
+Karawang;2020;Perdesaan;Keruh;Tidak;178332,0653
+Karawang;2021;Perdesaan;Keruh;Tidak;189204,0241
+Karawang;2022;Perdesaan;Keruh;Tidak;167516,6457
+Karawang;2023;Perdesaan;Keruh;Tidak;161785,0392
+Karawang;2019;Perkotaan;Keruh;Tidak;461921,64
+Karawang;2020;Perkotaan;Keruh;Tidak;469107,2768
+Karawang;2021;Perkotaan;Keruh;Tidak;513180,2289
+Karawang;2022;Perkotaan;Keruh;Tidak;493969,5879
+Karawang;2023;Perkotaan;Keruh;Tidak;501709,5195
+Kota Bandung;2019;Perkotaan;Berasa;Ya;1499,819824
+Kota Bandung;2020;Perkotaan;Berasa;Ya;706,147644
+Kota Bandung;2021;Perkotaan;Berasa;Ya;5849,790619
+Kota Bandung;2022;Perkotaan;Berasa;Ya;7949,600809
+Kota Bandung;2023;Perkotaan;Berasa;Ya;940,1520731
+Kota Bandung;2019;Perkotaan;Berasa;Tidak;737153,7808
+Kota Bandung;2020;Perkotaan;Berasa;Tidak;751511,1724
+Kota Bandung;2021;Perkotaan;Berasa;Tidak;727006,2408
+Kota Bandung;2022;Perkotaan;Berasa;Tidak;688295,2584
+Kota Bandung;2023;Perkotaan;Berasa;Tidak;672438,6361
+Kota Bandung;2019;Perkotaan;Berbau;Ya;5058,293945
+Kota Bandung;2020;Perkotaan;Berbau;Ya;4155,35614
+Kota Bandung;2021;Perkotaan;Berbau;Ya;4674,472992
+Kota Bandung;2022;Perkotaan;Berbau;Ya;6214,849512
+Kota Bandung;2023;Perkotaan;Berbau;Ya;4485,182827
+Kota Bandung;2019;Perkotaan;Berbau;Tidak;733595,3067
+Kota Bandung;2020;Perkotaan;Berbau;Tidak;748061,9639
+Kota Bandung;2021;Perkotaan;Berbau;Tidak;728181,5585
+Kota Bandung;2022;Perkotaan;Berbau;Tidak;690030,0097
+Kota Bandung;2023;Perkotaan;Berbau;Tidak;668893,6053
+Kota Bandung;2019;Perkotaan;Berbusa;Ya;1499,819824
+Kota Bandung;2020;Perkotaan;Berbusa;Ya;706,147644
+Kota Bandung;2021;Perkotaan;Berbusa;Ya;4127,490448
+Kota Bandung;2022;Perkotaan;Berbusa;Ya;1143,339728
+Kota Bandung;2023;Perkotaan;Berbusa;Ya;1349,641535
+Kota Bandung;2019;Perkotaan;Berbusa;Tidak;737153,7808
+Kota Bandung;2020;Perkotaan;Berbusa;Tidak;751511,1724
+Kota Bandung;2021;Perkotaan;Berbusa;Tidak;728728,541
+Kota Bandung;2022;Perkotaan;Berbusa;Tidak;695101,5195
+Kota Bandung;2023;Perkotaan;Berbusa;Tidak;672029,1466
+Kota Bandung;2019;Perkotaan;Berwarna;Ya;5468,408752
+Kota Bandung;2020;Perkotaan;Berwarna;Ya;3089,162964
+Kota Bandung;2021;Perkotaan;Berwarna;Ya;8757,990036
+Kota Bandung;2022;Perkotaan;Berwarna;Ya;10071,43105
+Kota Bandung;2023;Perkotaan;Berwarna;Ya;3819,968526
+Kota Bandung;2019;Perkotaan;Berwarna;Tidak;733185,1919
+Kota Bandung;2020;Perkotaan;Berwarna;Tidak;749128,1571
+Kota Bandung;2021;Perkotaan;Berwarna;Tidak;724098,0414
+Kota Bandung;2022;Perkotaan;Berwarna;Tidak;686173,4281
+Kota Bandung;2023;Perkotaan;Berwarna;Tidak;669558,8196
+Kota Bandung;2019;Perkotaan;Keruh;Ya;6882,985962
+Kota Bandung;2020;Perkotaan;Keruh;Ya;5599,987976
+Kota Bandung;2021;Perkotaan;Keruh;Ya;12808,24611
+Kota Bandung;2022;Perkotaan;Keruh;Ya;11946,76143
+Kota Bandung;2023;Perkotaan;Keruh;Ya;7092,088325
+Kota Bandung;2019;Perkotaan;Keruh;Tidak;731770,6147
+Kota Bandung;2020;Perkotaan;Keruh;Tidak;746617,332
+Kota Bandung;2021;Perkotaan;Keruh;Tidak;720047,7853
+Kota Bandung;2022;Perkotaan;Keruh;Tidak;684298,0977
+Kota Bandung;2023;Perkotaan;Keruh;Tidak;666286,6998
+Kota Banjar;2020;Perdesaan;Berasa;Ya;56,59882927
+Kota Banjar;2022;Perdesaan;Berasa;Ya;43,08470002
+Kota Banjar;2019;Perkotaan;Berasa;Ya;169,452095
+Kota Banjar;2021;Perkotaan;Berasa;Ya;280,9041901
+Kota Banjar;2022;Perkotaan;Berasa;Ya;446,1405996
+Kota Banjar;2023;Perkotaan;Berasa;Ya;164,9847019
+Kota Banjar;2019;Perdesaan;Berasa;Tidak;9920,081926
+Kota Banjar;2020;Perdesaan;Berasa;Tidak;9943,211872
+Kota Banjar;2021;Perdesaan;Berasa;Tidak;9845,328994
+Kota Banjar;2022;Perdesaan;Berasa;Tidak;8178,635329
+Kota Banjar;2023;Perdesaan;Berasa;Tidak;8439,064271
+Kota Banjar;2019;Perkotaan;Berasa;Tidak;44561,60566
+Kota Banjar;2020;Perkotaan;Berasa;Tidak;44055,24808
+Kota Banjar;2021;Perkotaan;Berasa;Tidak;48447,97361
+Kota Banjar;2022;Perkotaan;Berasa;Tidak;42911,53948
+Kota Banjar;2023;Perkotaan;Berasa;Tidak;50154,0153
+Kota Banjar;2020;Perdesaan;Berbau;Ya;13,72901344
+Kota Banjar;2019;Perkotaan;Berbau;Ya;743,3422089
+Kota Banjar;2020;Perkotaan;Berbau;Ya;185,6169167
+Kota Banjar;2021;Perkotaan;Berbau;Ya;857,0065994
+Kota Banjar;2022;Perkotaan;Berbau;Ya;880,6600222
+Kota Banjar;2023;Perkotaan;Berbau;Ya;817,6858143
+Kota Banjar;2019;Perdesaan;Berbau;Tidak;9920,081926
+Kota Banjar;2020;Perdesaan;Berbau;Tidak;9986,081688
+Kota Banjar;2021;Perdesaan;Berbau;Tidak;9845,328994
+Kota Banjar;2022;Perdesaan;Berbau;Tidak;8221,720029
+Kota Banjar;2023;Perdesaan;Berbau;Tidak;8439,064271
+Kota Banjar;2019;Perkotaan;Berbau;Tidak;43987,71554
+Kota Banjar;2020;Perkotaan;Berbau;Tidak;43869,63116
+Kota Banjar;2021;Perkotaan;Berbau;Tidak;47871,8712
+Kota Banjar;2022;Perkotaan;Berbau;Tidak;42477,02006
+Kota Banjar;2023;Perkotaan;Berbau;Tidak;49501,31419
+Kota Banjar;2019;Perkotaan;Berbusa;Ya;81,14433289
+Kota Banjar;2021;Perkotaan;Berbusa;Ya;346,5333176
+Kota Banjar;2022;Perkotaan;Berbusa;Ya;446,1405996
+Kota Banjar;2023;Perkotaan;Berbusa;Ya;164,9847019
+Kota Banjar;2019;Perdesaan;Berbusa;Tidak;9920,081926
+Kota Banjar;2020;Perdesaan;Berbusa;Tidak;9999,810701
+Kota Banjar;2021;Perdesaan;Berbusa;Tidak;9845,328994
+Kota Banjar;2022;Perdesaan;Berbusa;Tidak;8221,720029
+Kota Banjar;2023;Perdesaan;Berbusa;Tidak;8439,064271
+Kota Banjar;2019;Perkotaan;Berbusa;Tidak;44649,91342
+Kota Banjar;2020;Perkotaan;Berbusa;Tidak;44055,24808
+Kota Banjar;2021;Perkotaan;Berbusa;Tidak;48382,34449
+Kota Banjar;2022;Perkotaan;Berbusa;Tidak;42911,53948
+Kota Banjar;2023;Perkotaan;Berbusa;Tidak;50154,0153
+Kota Banjar;2019;Perdesaan;Berwarna;Ya;121,1626949
+Kota Banjar;2020;Perdesaan;Berwarna;Ya;93,43179512
+Kota Banjar;2022;Perdesaan;Berwarna;Ya;1189,867131
+Kota Banjar;2019;Perkotaan;Berwarna;Ya;561,5510025
+Kota Tasikmalaya;2019;Perdesaan;Berasa;Tidak;1211,552271
+Kuningan;2019;Perdesaan;Berasa;Tidak;140659,1527
+Majalengka;2019;Perdesaan;Berasa;Tidak;159355,8756
+Pangandaran;2019;Perdesaan;Berasa;Tidak;70534,51263
+Purwakarta;2019;Perdesaan;Berasa;Tidak;94172,48536
+Subang;2019;Perdesaan;Berasa;Tidak;262705,2821
+Sukabumi;2019;Perdesaan;Berasa;Tidak;338099,1415
+Sumedang;2019;Perdesaan;Berasa;Tidak;165085,4846
+Tasikmalaya;2019;Perdesaan;Berasa;Tidak;334062,4432
+Kota Tasikmalaya;2019;Perdesaan;Berbau;Tidak;1211,552271
+Kuningan;2019;Perdesaan;Berbau;Tidak;140982,813
+Majalengka;2019;Perdesaan;Berbau;Tidak;161125,7561
+Pangandaran;2019;Perdesaan;Berbau;Tidak;77362,20206
+Purwakarta;2019;Perdesaan;Berbau;Tidak;94357,21866
+Subang;2019;Perdesaan;Berbau;Tidak;269215,8166
+Sukabumi;2019;Perdesaan;Berbau;Tidak;336439,8187
+Sumedang;2019;Perdesaan;Berbau;Tidak;165508,6328
+Tasikmalaya;2019;Perdesaan;Berbau;Tidak;335052,1727
+Kota Tasikmalaya;2019;Perdesaan;Berbusa;Tidak;1211,552271
+Kuningan;2019;Perdesaan;Berbusa;Tidak;141503,8178
+Majalengka;2019;Perdesaan;Berbusa;Tidak;161652,2081
+Pangandaran;2019;Perdesaan;Berbusa;Tidak;77362,20206
+Purwakarta;2019;Perdesaan;Berbusa;Tidak;94357,21866
+Subang;2019;Perdesaan;Berbusa;Tidak;269991,5748
+Sukabumi;2019;Perdesaan;Berbusa;Tidak;338099,1415
+Sumedang;2019;Perdesaan;Berbusa;Tidak;165939,4427
+Tasikmalaya;2019;Perdesaan;Berbusa;Tidak;335052,1727
+Kota Banjar;2019;Perdesaan;Berwarna;Tidak;9798,919231
+Kota Tasikmalaya;2019;Perdesaan;Berwarna;Tidak;1189,199392
+Kuningan;2019;Perdesaan;Berwarna;Tidak;140334,4948
+Majalengka;2019;Perdesaan;Berwarna;Tidak;160259,6837
+Pangandaran;2019;Perdesaan;Berwarna;Tidak;77000,75583
+Purwakarta;2019;Perdesaan;Berwarna;Tidak;94214,57007
+Subang;2019;Perdesaan;Berwarna;Tidak;269246,7517
+Sukabumi;2019;Perdesaan;Berwarna;Tidak;332327,7373
+Sumedang;2019;Perdesaan;Berwarna;Tidak;165574,3227
+Tasikmalaya;2019;Perdesaan;Berwarna;Tidak;333753,6886
+Kota Banjar;2019;Perdesaan;Keruh;Tidak;9742,431854
+Kota Tasikmalaya;2019;Perdesaan;Keruh;Tidak;1189,199392
+Kuningan;2019;Perdesaan;Keruh;Tidak;140602,2025
+Majalengka;2019;Perdesaan;Keruh;Tidak;161036,8033
+Pangandaran;2019;Perdesaan;Keruh;Tidak;76534,81995
+Purwakarta;2019;Perdesaan;Keruh;Tidak;93989,35711
+Subang;2019;Perdesaan;Keruh;Tidak;268249,8533
+Sukabumi;2019;Perdesaan;Keruh;Tidak;332128,4283
+Sumedang;2019;Perdesaan;Keruh;Tidak;164629,4351
+Tasikmalaya;2019;Perdesaan;Keruh;Tidak;330462,6424
+Kota Tasikmalaya;2020;Perdesaan;Berasa;Tidak;1471,106096
+Kuningan;2020;Perdesaan;Berasa;Tidak;144310,848
+Majalengka;2020;Perdesaan;Berasa;Tidak;160345,9783
+Pangandaran;2020;Perdesaan;Berasa;Tidak;78925,41995
+Purwakarta;2020;Perdesaan;Berasa;Tidak;93429,96687
+Subang;2020;Perdesaan;Berasa;Tidak;275949,6047
+Sukabumi;2020;Perdesaan;Berasa;Tidak;348636,3843
+Sumedang;2020;Perdesaan;Berasa;Tidak;166965,2319
+Tasikmalaya;2020;Perdesaan;Berasa;Tidak;343407,1803
+Kota Tasikmalaya;2020;Perdesaan;Berbau;Tidak;1471,106096
+Kuningan;2020;Perdesaan;Berbau;Tidak;141716,3344
+Majalengka;2020;Perdesaan;Berbau;Tidak;161852,4517
+Pangandaran;2020;Perdesaan;Berbau;Tidak;80190,8358
+Purwakarta;2020;Perdesaan;Berbau;Tidak;91510,95266
+Subang;2020;Perdesaan;Berbau;Tidak;276445,7237
+Sukabumi;2020;Perdesaan;Berbau;Tidak;347041,3814
+Sumedang;2020;Perdesaan;Berbau;Tidak;166965,2319
+Tasikmalaya;2020;Perdesaan;Berbau;Tidak;343077,2629
+Kota Tasikmalaya;2020;Perdesaan;Berbusa;Tidak;1471,106096
+Kuningan;2020;Perdesaan;Berbusa;Tidak;144712,1673
+Majalengka;2020;Perdesaan;Berbusa;Tidak;162867,3836
+Pangandaran;2020;Perdesaan;Berbusa;Tidak;80190,8358
+Purwakarta;2020;Perdesaan;Berbusa;Tidak;94740,10019
+Subang;2020;Perdesaan;Berbusa;Tidak;278183,4153
+Sukabumi;2020;Perdesaan;Berbusa;Tidak;348017,6825
+Sumedang;2020;Perdesaan;Berbusa;Tidak;166965,2319
+Tasikmalaya;2020;Perdesaan;Berbusa;Tidak;343666,9249
+Kota Banjar;2020;Perdesaan;Berwarna;Tidak;9906,378906
+Kota Tasikmalaya;2020;Perdesaan;Berwarna;Tidak;1471,106096
+Kuningan;2020;Perdesaan;Berwarna;Tidak;144167,7581
+Majalengka;2020;Perdesaan;Berwarna;Tidak;160567,1811
+Pangandaran;2020;Perdesaan;Berwarna;Tidak;80054,24215
+Purwakarta;2020;Perdesaan;Berwarna;Tidak;90312,74325
+Subang;2020;Perdesaan;Berwarna;Tidak;275783,0799
+Sukabumi;2020;Perdesaan;Berwarna;Tidak;345354,1791
+Sumedang;2020;Perdesaan;Berwarna;Tidak;166965,2319
+Tasikmalaya;2020;Perdesaan;Berwarna;Tidak;343666,9249
+Kota Banjar;2020;Perdesaan;Keruh;Tidak;9767,532501
+Kota Tasikmalaya;2020;Perdesaan;Keruh;Tidak;1471,106096
+Kuningan;2020;Perdesaan;Keruh;Tidak;139961,5402
+Majalengka;2020;Perdesaan;Keruh;Tidak;161252,4494
+Pangandaran;2020;Perdesaan;Keruh;Tidak;79974,38468
+Purwakarta;2020;Perdesaan;Keruh;Tidak;83710,06331
+Subang;2020;Perdesaan;Keruh;Tidak;275548,5205
+Sukabumi;2020;Perdesaan;Keruh;Tidak;336770,2503
+Sumedang;2020;Perdesaan;Keruh;Tidak;164771,8586
+Tasikmalaya;2020;Perdesaan;Keruh;Tidak;341430,2515
+Kota Tasikmalaya;2021;Perdesaan;Berasa;Tidak;2603,023422
+Kuningan;2021;Perdesaan;Berasa;Tidak;148402,3145
+Majalengka;2021;Perdesaan;Berasa;Tidak;154935,7527
+Pangandaran;2021;Perdesaan;Berasa;Tidak;75619,6027
+Purwakarta;2021;Perdesaan;Berasa;Tidak;93137,10647
+Subang;2021;Perdesaan;Berasa;Tidak;276675,7735
+Sukabumi;2021;Perdesaan;Berasa;Tidak;352031,3842
+Sumedang;2021;Perdesaan;Berasa;Tidak;171697,6986
+Tasikmalaya;2021;Perdesaan;Berasa;Tidak;354195,6336
+Kota Tasikmalaya;2021;Perdesaan;Berbau;Tidak;2512,122925
+Kuningan;2021;Perdesaan;Berbau;Tidak;147213,3533
+Majalengka;2021;Perdesaan;Berbau;Tidak;154678,2904
+Pangandaran;2021;Perdesaan;Berbau;Tidak;78801,46724
+Purwakarta;2021;Perdesaan;Berbau;Tidak;93137,10647
+Subang;2021;Perdesaan;Berbau;Tidak;276462,0925
+Sukabumi;2021;Perdesaan;Berbau;Tidak;351886,6731
+Sumedang;2021;Perdesaan;Berbau;Tidak;172056,4095
+Tasikmalaya;2021;Perdesaan;Berbau;Tidak;355359,8566
+Kota Tasikmalaya;2021;Perdesaan;Berbusa;Tidak;2603,023422
+Kuningan;2021;Perdesaan;Berbusa;Tidak;148402,3145
+Majalengka;2021;Perdesaan;Berbusa;Tidak;155523,744
+Pangandaran;2021;Perdesaan;Berbusa;Tidak;78878,1118
+Purwakarta;2021;Perdesaan;Berbusa;Tidak;93264,02757
+Subang;2021;Perdesaan;Berbusa;Tidak;277082,6938
+Sukabumi;2021;Perdesaan;Berbusa;Tidak;354561,7145
+Sumedang;2021;Perdesaan;Berbusa;Tidak;171775,7397
+Tasikmalaya;2021;Perdesaan;Berbusa;Tidak;355359,8566
+Kota Banjar;2021;Perdesaan;Berwarna;Tidak;9845,328994
+Kota Tasikmalaya;2021;Perdesaan;Berwarna;Tidak;2603,023422
+Kuningan;2021;Perdesaan;Berwarna;Tidak;147760,3605
+Majalengka;2021;Perdesaan;Berwarna;Tidak;152598,6027
+Pangandaran;2021;Perdesaan;Berwarna;Tidak;78878,1118
+Purwakarta;2021;Perdesaan;Berwarna;Tidak;90291,60289
+Subang;2021;Perdesaan;Berwarna;Tidak;276621,6023
+Sukabumi;2021;Perdesaan;Berwarna;Tidak;347534,947
+Sumedang;2021;Perdesaan;Berwarna;Tidak;171478,3627
+Tasikmalaya;2021;Perdesaan;Berwarna;Tidak;353472,5628
+Kota Banjar;2021;Perdesaan;Keruh;Tidak;9845,328994
+Kota Tasikmalaya;2021;Perdesaan;Keruh;Tidak;2549,858807
+Kuningan;2021;Perdesaan;Keruh;Tidak;147426,7102
+Majalengka;2021;Perdesaan;Keruh;Tidak;151185,2323
+Pangandaran;2021;Perdesaan;Keruh;Tidak;78667,04583
+Purwakarta;2021;Perdesaan;Keruh;Tidak;91629,46278
+Subang;2021;Perdesaan;Keruh;Tidak;274130,9564
+Sukabumi;2021;Perdesaan;Keruh;Tidak;352654,1351
+Sumedang;2021;Perdesaan;Keruh;Tidak;170487,931
+Tasikmalaya;2021;Perdesaan;Keruh;Tidak;353914,4897
+Kota Tasikmalaya;2022;Perdesaan;Berasa;Tidak;2372,595947
+Kuningan;2022;Perdesaan;Berasa;Tidak;128049,2453
+Majalengka;2022;Perdesaan;Berasa;Tidak;144275,9393
+Pangandaran;2022;Perdesaan;Berasa;Tidak;68019,54702
+Purwakarta;2022;Perdesaan;Berasa;Tidak;85418,62029
+Subang;2022;Perdesaan;Berasa;Tidak;242079,4716
+Sukabumi;2022;Perdesaan;Berasa;Tidak;331165,8781
+Sumedang;2022;Perdesaan;Berasa;Tidak;157595,5605
+Tasikmalaya;2022;Perdesaan;Berasa;Tidak;337334,5128
+Kota Tasikmalaya;2022;Perdesaan;Berbau;Tidak;2444,861926
+Kuningan;2022;Perdesaan;Berbau;Tidak;127341,4917
+Majalengka;2022;Perdesaan;Berbau;Tidak;144695,744
+Pangandaran;2022;Perdesaan;Berbau;Tidak;70215,06536
+Purwakarta;2022;Perdesaan;Berbau;Tidak;89264,25592
+Subang;2022;Perdesaan;Berbau;Tidak;246848,2991
+Sukabumi;2022;Perdesaan;Berbau;Tidak;331404,0103
+Sumedang;2022;Perdesaan;Berbau;Tidak;157660,8897
+Tasikmalaya;2022;Perdesaan;Berbau;Tidak;335165,2043
+Kota Tasikmalaya;2022;Perdesaan;Berbusa;Tidak;2444,861926
+Kuningan;2022;Perdesaan;Berbusa;Tidak;128111,2557
+Majalengka;2022;Perdesaan;Berbusa;Tidak;144695,744
+Pangandaran;2022;Perdesaan;Berbusa;Tidak;70336,02652
+Purwakarta;2022;Perdesaan;Berbusa;Tidak;89800,67822
+Subang;2022;Perdesaan;Berbusa;Tidak;251046,3034
+Sukabumi;2022;Perdesaan;Berbusa;Tidak;331404,0103
+Sumedang;2022;Perdesaan;Berbusa;Tidak;158047,6022
+Tasikmalaya;2022;Perdesaan;Berbusa;Tidak;337608,5091
+Kota Banjar;2022;Perdesaan;Berwarna;Tidak;7031,852898
+Kota Tasikmalaya;2022;Perdesaan;Berwarna;Tidak;2372,595947
+Kuningan;2022;Perdesaan;Berwarna;Tidak;127520,8652
+Majalengka;2022;Perdesaan;Berwarna;Tidak;144201,7266
+Pangandaran;2022;Perdesaan;Berwarna;Tidak;70094,619
+Purwakarta;2022;Perdesaan;Berwarna;Tidak;89271,40952
+Subang;2022;Perdesaan;Berwarna;Tidak;249996,7635
+Sukabumi;2022;Perdesaan;Berwarna;Tidak;329433,6498
+Sumedang;2022;Perdesaan;Berwarna;Tidak;157314,4938
+Tasikmalaya;2022;Perdesaan;Berwarna;Tidak;334337,2804
+Kota Banjar;2022;Perdesaan;Keruh;Tidak;7362,396574
+Kota Tasikmalaya;2022;Perdesaan;Keruh;Tidak;2372,595947
+Kuningan;2022;Perdesaan;Keruh;Tidak;126930,3295
+Majalengka;2022;Perdesaan;Keruh;Tidak;144383,773
+Pangandaran;2022;Perdesaan;Keruh;Tidak;69786,48186
+Purwakarta;2022;Perdesaan;Keruh;Tidak;88072,55975
+Subang;2022;Perdesaan;Keruh;Tidak;245134,2677
+Sukabumi;2022;Perdesaan;Keruh;Tidak;327568,5199
+Sumedang;2022;Perdesaan;Keruh;Tidak;153390,5222
+Tasikmalaya;2022;Perdesaan;Keruh;Tidak;324333,5726
+Kota Tasikmalaya;2023;Perdesaan;Berasa;Tidak;2718,311259
+Kuningan;2023;Perdesaan;Berasa;Tidak;127841,4138
+Majalengka;2023;Perdesaan;Berasa;Tidak;152323,6542
+Pangandaran;2023;Perdesaan;Berasa;Tidak;71400,22883
+Purwakarta;2023;Perdesaan;Berasa;Tidak;80768,1982
+Subang;2023;Perdesaan;Berasa;Tidak;250735,4905
+Sukabumi;2023;Perdesaan;Berasa;Tidak;326953,2603
+Sumedang;2023;Perdesaan;Berasa;Tidak;146742,0485
+Tasikmalaya;2023;Perdesaan;Berasa;Tidak;318768,168
+Kota Tasikmalaya;2023;Perdesaan;Berbau;Tidak;2718,311259
+Kuningan;2023;Perdesaan;Berbau;Tidak;127912,3505
+Majalengka;2023;Perdesaan;Berbau;Tidak;151636,819
+Pangandaran;2023;Perdesaan;Berbau;Tidak;71950,65981
+Purwakarta;2023;Perdesaan;Berbau;Tidak;80184,79379
+Subang;2023;Perdesaan;Berbau;Tidak;252463,0095
+Sukabumi;2023;Perdesaan;Berbau;Tidak;328734,8205
+Sumedang;2023;Perdesaan;Berbau;Tidak;146742,0485
+Tasikmalaya;2023;Perdesaan;Berbau;Tidak;318144,393
+Kota Tasikmalaya;2023;Perdesaan;Berbusa;Tidak;2718,311259
+Kuningan;2023;Perdesaan;Berbusa;Tidak;127912,3505
+Majalengka;2023;Perdesaan;Berbusa;Tidak;152323,6542
+Pangandaran;2023;Perdesaan;Berbusa;Tidak;71668,5548
+Purwakarta;2023;Perdesaan;Berbusa;Tidak;80768,1982
+Subang;2023;Perdesaan;Berbusa;Tidak;252463,0095
+Sukabumi;2023;Perdesaan;Berbusa;Tidak;329417
+Sumedang;2023;Perdesaan;Berbusa;Tidak;146742,0485
+Tasikmalaya;2023;Perdesaan;Berbusa;Tidak;319259,1547
+Kota Banjar;2023;Perdesaan;Berwarna;Tidak;8439,064271
+Kota Tasikmalaya;2023;Perdesaan;Berwarna;Tidak;2718,311259
+Kuningan;2023;Perdesaan;Berwarna;Tidak;128173,7636
+Majalengka;2023;Perdesaan;Berwarna;Tidak;151994,7378
+Pangandaran;2023;Perdesaan;Berwarna;Tidak;71950,65981
+Purwakarta;2023;Perdesaan;Berwarna;Tidak;79826,99706
+Subang;2023;Perdesaan;Berwarna;Tidak;251985,7952
+Sukabumi;2023;Perdesaan;Berwarna;Tidak;328182,32
+Sumedang;2023;Perdesaan;Berwarna;Tidak;146742,0485
+Tasikmalaya;2023;Perdesaan;Berwarna;Tidak;318198,5189
+Kota Banjar;2023;Perdesaan;Keruh;Tidak;8226,846367
+Kota Tasikmalaya;2023;Perdesaan;Keruh;Tidak;2718,311259
+Kuningan;2023;Perdesaan;Keruh;Tidak;127541,4644
+Majalengka;2023;Perdesaan;Keruh;Tidak;151424,7313
+Pangandaran;2023;Perdesaan;Keruh;Tidak;71950,65981
+Purwakarta;2023;Perdesaan;Keruh;Tidak;79448,62753
+Subang;2023;Perdesaan;Keruh;Tidak;250759,7464
+Sukabumi;2023;Perdesaan;Keruh;Tidak;322827,4427
+Sumedang;2023;Perdesaan;Keruh;Tidak;145694,6102
+Tasikmalaya;2023;Perdesaan;Keruh;Tidak;318982,7483
+Kota Tasikmalaya;2019;Perdesaan;Berasa;Ya;45,7120285
+Kuningan;2019;Perdesaan;Berasa;Ya;1430,462234
+Majalengka;2019;Perdesaan;Berasa;Ya;2553,815445
+Pangandaran;2019;Perdesaan;Berasa;Ya;6991,431892
+Purwakarta;2019;Perdesaan;Berasa;Ya;287,1346512
+Subang;2019;Perdesaan;Berasa;Ya;7286,292755
+Sumedang;2019;Perdesaan;Berasa;Ya;853,9580994
+Tasikmalaya;2019;Perdesaan;Berasa;Ya;989,7294922
+Kota Tasikmalaya;2019;Perdesaan;Berbau;Ya;45,7120285
+Kuningan;2019;Perdesaan;Berbau;Ya;1106,801895
+Majalengka;2019;Perdesaan;Berbau;Ya;783,9349213
+Pangandaran;2019;Perdesaan;Berbau;Ya;163,7424622
+Purwakarta;2019;Perdesaan;Berbau;Ya;102,4013519
+Subang;2019;Perdesaan;Berbau;Ya;775,7581787
+Sukabumi;2019;Perdesaan;Berbau;Ya;1659,322784
+Sumedang;2019;Perdesaan;Berbau;Ya;430,809906
+Kota Tasikmalaya;2019;Perdesaan;Berbusa;Ya;45,7120285
+Kuningan;2019;Perdesaan;Berbusa;Ya;585,7971191
+Majalengka;2019;Perdesaan;Berbusa;Ya;257,4829102
+Pangandaran;2019;Perdesaan;Berbusa;Ya;163,7424622
+Purwakarta;2019;Perdesaan;Berbusa;Ya;102,4013519
+Kota Tasikmalaya;2019;Perdesaan;Berwarna;Ya;68,06490707
+Kuningan;2019;Perdesaan;Berwarna;Ya;1755,120154
+Majalengka;2019;Perdesaan;Berwarna;Ya;1650,007278
+Pangandaran;2019;Perdesaan;Berwarna;Ya;525,1886864
+Purwakarta;2019;Perdesaan;Berwarna;Ya;245,049942
+Subang;2019;Perdesaan;Berwarna;Ya;744,8231201
+Sukabumi;2019;Perdesaan;Berwarna;Ya;5771,404205
+Sumedang;2019;Perdesaan;Berwarna;Ya;365,1200256
+Tasikmalaya;2019;Perdesaan;Berwarna;Ya;1298,48407
+Kota Banjar;2019;Perdesaan;Keruh;Ya;177,6500721
+Kota Tasikmalaya;2019;Perdesaan;Keruh;Ya;68,06490707
+Kuningan;2019;Perdesaan;Keruh;Ya;1487,41243
+Majalengka;2019;Perdesaan;Keruh;Ya;872,8876953
+Pangandaran;2019;Perdesaan;Keruh;Ya;991,1245728
+Purwakarta;2019;Perdesaan;Keruh;Ya;470,2629013
+Subang;2019;Perdesaan;Keruh;Ya;1741,721558
+Sukabumi;2019;Perdesaan;Keruh;Ya;5970,713257
+Sumedang;2019;Perdesaan;Keruh;Ya;1310,007538
+Tasikmalaya;2019;Perdesaan;Keruh;Ya;4589,530365
+Kuningan;2020;Perdesaan;Berasa;Ya;401,3193512
+Majalengka;2020;Perdesaan;Berasa;Ya;2521,405334
+Pangandaran;2020;Perdesaan;Berasa;Ya;1265,415848
+Purwakarta;2020;Perdesaan;Berasa;Ya;1895,905811
+Subang;2020;Perdesaan;Berasa;Ya;3231,092529
+Sumedang;2020;Perdesaan;Berasa;Ya;428,1852112
+Tasikmalaya;2020;Perdesaan;Berasa;Ya;259,7446594
+Kuningan;2020;Perdesaan;Berbau;Ya;2995,832947
+Majalengka;2020;Perdesaan;Berbau;Ya;1014,931969
+Purwakarta;2020;Perdesaan;Berbau;Ya;3814,920017
+Subang;2020;Perdesaan;Berbau;Ya;2734,973602
+Sukabumi;2020;Perdesaan;Berbau;Ya;1595,00296
+Sumedang;2020;Perdesaan;Berbau;Ya;428,1852112
+Tasikmalaya;2020;Perdesaan;Berbau;Ya;589,6620178
+Purwakarta;2020;Perdesaan;Berbusa;Ya;585,7724915
+Subang;2020;Perdesaan;Berbusa;Ya;997,2820129
+Sukabumi;2020;Perdesaan;Berbusa;Ya;618,7018433
+Sumedang;2020;Perdesaan;Berbusa;Ya;428,1852112
+Kuningan;2020;Perdesaan;Berwarna;Ya;544,4091797
+Majalengka;2020;Perdesaan;Berwarna;Ya;2300,202568
+Pangandaran;2020;Perdesaan;Berwarna;Ya;136,5936432
+Purwakarta;2020;Perdesaan;Berwarna;Ya;5013,129425
+Subang;2020;Perdesaan;Berwarna;Ya;3397,61734
+Sukabumi;2020;Perdesaan;Berwarna;Ya;3282,205292
+Sumedang;2020;Perdesaan;Berwarna;Ya;428,1852112
+Kota Banjar;2020;Perdesaan;Keruh;Ya;232,2782002
+Kuningan;2020;Perdesaan;Keruh;Ya;4750,627075
+Majalengka;2020;Perdesaan;Keruh;Ya;1614,93428
+Pangandaran;2020;Perdesaan;Keruh;Ya;216,4511185
+Purwakarta;2020;Perdesaan;Keruh;Ya;11615,80937
+Subang;2020;Perdesaan;Keruh;Ya;3632,176727
+Sukabumi;2020;Perdesaan;Keruh;Ya;11866,13406
+Sumedang;2020;Perdesaan;Keruh;Ya;2621,558578
+Tasikmalaya;2020;Perdesaan;Keruh;Ya;2236,673431
+Majalengka;2021;Perdesaan;Berasa;Ya;834,4218597
+Pangandaran;2021;Perdesaan;Berasa;Ya;3258,509102
+Purwakarta;2021;Perdesaan;Berasa;Ya;126,9210968
+Subang;2021;Perdesaan;Berasa;Ya;615,2133942
+Sukabumi;2021;Perdesaan;Berasa;Ya;2945,736115
+Sumedang;2021;Perdesaan;Berasa;Ya;358,7108154
+Tasikmalaya;2021;Perdesaan;Berasa;Ya;1164,222961
+Kota Tasikmalaya;2021;Perdesaan;Berbau;Ya;90,90049744
+Kuningan;2021;Perdesaan;Berbau;Ya;1188,961227
+Majalengka;2021;Perdesaan;Berbau;Ya;1091,884109
+Pangandaran;2021;Perdesaan;Berbau;Ya;76,64455414
+Purwakarta;2021;Perdesaan;Berbau;Ya;126,9210968
+Subang;2021;Perdesaan;Berbau;Ya;828,8943939
+Sukabumi;2021;Perdesaan;Berbau;Ya;3090,447205
+Majalengka;2021;Perdesaan;Berbusa;Ya;246,4304962
+Subang;2021;Perdesaan;Berbusa;Ya;208,2931061
+Sukabumi;2021;Perdesaan;Berbusa;Ya;415,4058533
+Sumedang;2021;Perdesaan;Berbusa;Ya;280,6697998
+Kuningan;2021;Perdesaan;Berwarna;Ya;641,9540405
+Majalengka;2021;Perdesaan;Berwarna;Ya;3171,571823
+Purwakarta;2021;Perdesaan;Berwarna;Ya;2972,424683
+Subang;2021;Perdesaan;Berwarna;Ya;669,3846588
+Sukabumi;2021;Perdesaan;Berwarna;Ya;7442,173309
+Sumedang;2021;Perdesaan;Berwarna;Ya;578,0467377
+Tasikmalaya;2021;Perdesaan;Berwarna;Ya;1887,293823
+Kota Tasikmalaya;2021;Perdesaan;Keruh;Ya;53,16461563
+Kuningan;2021;Perdesaan;Keruh;Ya;975,6043243
+Majalengka;2021;Perdesaan;Keruh;Ya;4584,942223
+Pangandaran;2021;Perdesaan;Keruh;Ya;211,0659637
+Purwakarta;2021;Perdesaan;Keruh;Ya;1634,564789
+Subang;2021;Perdesaan;Keruh;Ya;3160,030502
+Sukabumi;2021;Perdesaan;Keruh;Ya;2322,985229
+Sumedang;2021;Perdesaan;Keruh;Ya;1568,478455
+Tasikmalaya;2021;Perdesaan;Keruh;Ya;1445,366882
+Kota Tasikmalaya;2022;Perdesaan;Berasa;Ya;72,26597821
+Kuningan;2022;Perdesaan;Berasa;Ya;259,7930413
+Majalengka;2022;Perdesaan;Berasa;Ya;419,8046545
+Pangandaran;2022;Perdesaan;Berasa;Ya;2316,479502
+Purwakarta;2022;Perdesaan;Berasa;Ya;4382,057925
+Subang;2022;Perdesaan;Berasa;Ya;10329,80548
+Sukabumi;2022;Perdesaan;Berasa;Ya;1953,465395
+Sumedang;2022;Perdesaan;Berasa;Ya;668,3826456
+Tasikmalaya;2022;Perdesaan;Berasa;Ya;273,9963257
+Kuningan;2022;Perdesaan;Berbau;Ya;967,5466598
+Pangandaran;2022;Perdesaan;Berbau;Ya;120,9611639
+Purwakarta;2022;Perdesaan;Berbau;Ya;536,4222994
+Subang;2022;Perdesaan;Berbau;Ya;5560,977976
+Sukabumi;2022;Perdesaan;Berbau;Ya;1715,333186
+Sumedang;2022;Perdesaan;Berbau;Ya;603,0533871
+Tasikmalaya;2022;Perdesaan;Berbau;Ya;2443,304809
+Kuningan;2022;Perdesaan;Berbusa;Ya;197,7826568
+Subang;2022;Perdesaan;Berbusa;Ya;1362,973629
+Sukabumi;2022;Perdesaan;Berbusa;Ya;1715,333186
+Sumedang;2022;Perdesaan;Berbusa;Ya;216,3408956
+Kota Tasikmalaya;2022;Perdesaan;Berwarna;Ya;72,26597821
+Kuningan;2022;Perdesaan;Berwarna;Ya;788,1730978
+Majalengka;2022;Perdesaan;Berwarna;Ya;494,0173626
+Pangandaran;2022;Perdesaan;Berwarna;Ya;241,4075219
+Purwakarta;2022;Perdesaan;Berwarna;Ya;529,2686969
+Subang;2022;Perdesaan;Berwarna;Ya;2412,513518
+Sukabumi;2022;Perdesaan;Berwarna;Ya;3685,69367
+Sumedang;2022;Perdesaan;Berwarna;Ya;949,4493192
+Tasikmalaya;2022;Perdesaan;Berwarna;Ya;3271,228773
+Kota Banjar;2022;Perdesaan;Keruh;Ya;859,3234559
+Kota Tasikmalaya;2022;Perdesaan;Keruh;Ya;72,26597821
+Kuningan;2022;Perdesaan;Keruh;Ya;1378,70883
+Majalengka;2022;Perdesaan;Keruh;Ya;311,970914
+Pangandaran;2022;Perdesaan;Keruh;Ya;549,5446642
+Purwakarta;2022;Perdesaan;Keruh;Ya;1728,11847
+Subang;2022;Perdesaan;Keruh;Ya;7275,009338
+Sukabumi;2022;Perdesaan;Keruh;Ya;5550,823631
+Sumedang;2022;Perdesaan;Keruh;Ya;4873,420907
+Tasikmalaya;2022;Perdesaan;Keruh;Ya;13274,93657
+Kuningan;2023;Perdesaan;Berasa;Ya;2029,810434
+Majalengka;2023;Perdesaan;Berasa;Ya;503,2250437
+Pangandaran;2023;Perdesaan;Berasa;Ya;693,4719839
+Subang;2023;Perdesaan;Berasa;Ya;2231,052701
+Sukabumi;2023;Perdesaan;Berasa;Ya;2463,739651
+Tasikmalaya;2023;Perdesaan;Berasa;Ya;490,9866658
+Kuningan;2023;Perdesaan;Berbau;Ya;1958,873698
+Majalengka;2023;Perdesaan;Berbau;Ya;1190,060285
+Pangandaran;2023;Perdesaan;Berbau;Ya;143,0410039
+Purwakarta;2023;Perdesaan;Berbau;Ya;583,4044017
+Subang;2023;Perdesaan;Berbau;Ya;503,5336624
+Sukabumi;2023;Perdesaan;Berbau;Ya;682,1794532
+Tasikmalaya;2023;Perdesaan;Berbau;Ya;1114,761619
+Kuningan;2023;Perdesaan;Berbusa;Ya;1958,873698
+Majalengka;2023;Perdesaan;Berbusa;Ya;503,2250437
+Pangandaran;2023;Perdesaan;Berbusa;Ya;425,1460156
+Subang;2023;Perdesaan;Berbusa;Ya;503,5336624
+Kuningan;2023;Perdesaan;Berwarna;Ya;1697,460609
+Majalengka;2023;Perdesaan;Berwarna;Ya;832,141514
+Pangandaran;2023;Perdesaan;Berwarna;Ya;143,0410039
+Purwakarta;2023;Perdesaan;Berwarna;Ya;941,2011402
+Subang;2023;Perdesaan;Berwarna;Ya;980,7479329
+Sukabumi;2023;Perdesaan;Berwarna;Ya;1234,679978
+Tasikmalaya;2023;Perdesaan;Berwarna;Ya;1060,635759
+Kota Banjar;2023;Perdesaan;Keruh;Ya;212,2179036
+Kuningan;2023;Perdesaan;Keruh;Ya;2329,75983
+Majalengka;2023;Perdesaan;Keruh;Ya;1402,147997
+Pangandaran;2023;Perdesaan;Keruh;Ya;143,0410039
+Purwakarta;2023;Perdesaan;Keruh;Ya;1319,570664
+Subang;2023;Perdesaan;Keruh;Ya;2206,79674
+Sukabumi;2023;Perdesaan;Keruh;Ya;6589,557268
+Sumedang;2023;Perdesaan;Keruh;Ya;1047,438284
+Tasikmalaya;2023;Perdesaan;Keruh;Ya;276,4063987
+Jawa Barat;2019;Perkotaan;Berasa;Tidak;13599743,55
+Kota Bekasi;2019;Perkotaan;Berasa;Tidak;807266,2959
+Kota Bogor;2019;Perkotaan;Berasa;Tidak;295649,3666
+Kota Cimahi;2019;Perkotaan;Berasa;Tidak;173772,6106
+Kota Cirebon;2019;Perkotaan;Berasa;Tidak;94223,88992
+Kota Depok;2019;Perkotaan;Berasa;Tidak;617792,3588
+Kota Sukabumi;2019;Perkotaan;Berasa;Tidak;92900,01323
+Kota Tasikmalaya;2019;Perkotaan;Berasa;Tidak;176839,8265
+Kuningan;2019;Perkotaan;Berasa;Tidak;156347,0409
+Majalengka;2019;Perkotaan;Berasa;Tidak;208302,1028
+Pangandaran;2019;Perkotaan;Berasa;Tidak;48476,29453
+Purwakarta;2019;Perkotaan;Berasa;Tidak;166453,9718
+Subang;2019;Perkotaan;Berasa;Tidak;205777,0402
+Sukabumi;2019;Perkotaan;Berasa;Tidak;375106,2917
+Sumedang;2019;Perkotaan;Berasa;Tidak;193303,1657
+Tasikmalaya;2019;Perkotaan;Berasa;Tidak;183929,6064
+Jawa Barat;2019;Perkotaan;Berbau;Tidak;13605925,06
+Kota Bekasi;2019;Perkotaan;Berbau;Tidak;798526,2568
+Kota Bogor;2019;Perkotaan;Berbau;Tidak;298660,1808
+Kota Cimahi;2019;Perkotaan;Berbau;Tidak;173283,5714
+Kota Cirebon;2019;Perkotaan;Berbau;Tidak;94435,15257
+Kota Depok;2019;Perkotaan;Berbau;Tidak;612832,572
+Kota Sukabumi;2019;Perkotaan;Berbau;Tidak;90433,82504
+Kota Tasikmalaya;2019;Perkotaan;Berbau;Tidak;175351,4487
+Kuningan;2019;Perkotaan;Berbau;Tidak;153407,4786
+Majalengka;2019;Perkotaan;Berbau;Tidak;208056,9701
+Pangandaran;2019;Perkotaan;Berbau;Tidak;50221,8338
+Purwakarta;2019;Perkotaan;Berbau;Tidak;168337,8395
+Subang;2019;Perkotaan;Berbau;Tidak;205777,0402
+Sukabumi;2019;Perkotaan;Berbau;Tidak;375609,9968
+Sumedang;2019;Perkotaan;Berbau;Tidak;194015,8646
+Tasikmalaya;2019;Perkotaan;Berbau;Tidak;182547,2001
+Jawa Barat;2019;Perkotaan;Berbusa;Tidak;13735750,55
+Kota Bekasi;2019;Perkotaan;Berbusa;Tidak;810106,2915
+Kota Bogor;2019;Perkotaan;Berbusa;Tidak;300405,8251
+Kota Cimahi;2019;Perkotaan;Berbusa;Tidak;173851,3225
+Kota Cirebon;2019;Perkotaan;Berbusa;Tidak;94512,39341
+Kota Depok;2019;Perkotaan;Berbusa;Tidak;625143,8125
+Kota Sukabumi;2019;Perkotaan;Berbusa;Tidak;92900,01323
+Kota Tasikmalaya;2019;Perkotaan;Berbusa;Tidak;176534,4726
+Kuningan;2019;Perkotaan;Berbusa;Tidak;156501,1543
+Majalengka;2019;Perkotaan;Berbusa;Tidak;209609,4083
+Pangandaran;2019;Perkotaan;Berbusa;Tidak;50733,33212
+Purwakarta;2019;Perkotaan;Berbusa;Tidak;169674,2054
+Subang;2019;Perkotaan;Berbusa;Tidak;206150,1571
+Sukabumi;2019;Perkotaan;Berbusa;Tidak;376322,9717
+Sumedang;2019;Perkotaan;Berbusa;Tidak;194815,8382
+Tasikmalaya;2019;Perkotaan;Berbusa;Tidak;183929,6064
+Jawa Barat;2019;Perkotaan;Berwarna;Tidak;13602083,21
+Kota Banjar;2019;Perkotaan;Berwarna;Tidak;44169,50675
+Kota Bekasi;2019;Perkotaan;Berwarna;Tidak;805311,9939
+Kota Bogor;2019;Perkotaan;Berwarna;Tidak;300219,5514
+Kota Cimahi;2019;Perkotaan;Berwarna;Tidak;171776,1444
+Kota Cirebon;2019;Perkotaan;Berwarna;Tidak;94512,39341
+Kota Depok;2019;Perkotaan;Berwarna;Tidak;613969,3935
+Kota Sukabumi;2019;Perkotaan;Berwarna;Tidak;91121,52207
+Kota Tasikmalaya;2019;Perkotaan;Berwarna;Tidak;175602,5051
+Kuningan;2019;Perkotaan;Berwarna;Tidak;153850,8264
+Majalengka;2019;Perkotaan;Berwarna;Tidak;206475,0335
+Pangandaran;2019;Perkotaan;Berwarna;Tidak;50271,47526
+Purwakarta;2019;Perkotaan;Berwarna;Tidak;165492,9394
+Subang;2019;Perkotaan;Berwarna;Tidak;206150,1571
+Sukabumi;2019;Perkotaan;Berwarna;Tidak;373725,8334
+Sumedang;2019;Perkotaan;Berwarna;Tidak;194082,8052
+Tasikmalaya;2019;Perkotaan;Berwarna;Tidak;183929,6064
+Jawa Barat;2019;Perkotaan;Keruh;Tidak;13503307,34
+Kota Banjar;2019;Perkotaan;Keruh;Tidak;43763,96641
+Kota Bekasi;2019;Perkotaan;Keruh;Tidak;796376,8985
+Kota Bogor;2019;Perkotaan;Keruh;Tidak;297206,0091
+Kota Cimahi;2019;Perkotaan;Keruh;Tidak;172493,7365
+Kota Cirebon;2019;Perkotaan;Keruh;Tidak;94512,39341
+Kota Depok;2019;Perkotaan;Keruh;Tidak;611253,9069
+Kota Sukabumi;2019;Perkotaan;Keruh;Tidak;92024,60208
+Kota Tasikmalaya;2019;Perkotaan;Keruh;Tidak;172546,9011
+Kuningan;2019;Perkotaan;Keruh;Tidak;148680,5485
+Majalengka;2019;Perkotaan;Keruh;Tidak;205793,2687
+Pangandaran;2019;Perkotaan;Keruh;Tidak;49994,4653
+Purwakarta;2019;Perkotaan;Keruh;Tidak;162719,7486
+Subang;2019;Perkotaan;Keruh;Tidak;202558,0725
+Sukabumi;2019;Perkotaan;Keruh;Tidak;373971,6384
+Sumedang;2019;Perkotaan;Keruh;Tidak;194475,2316
+Tasikmalaya;2019;Perkotaan;Keruh;Tidak;183929,6064
+Jawa Barat;2020;Perkotaan;Berasa;Tidak;13818451,16
+Kota Bekasi;2020;Perkotaan;Berasa;Tidak;811869,9577
+Kota Bogor;2020;Perkotaan;Berasa;Tidak;297561,6825
+Kota Cimahi;2020;Perkotaan;Berasa;Tidak;176313,7829
+Kota Cirebon;2020;Perkotaan;Berasa;Tidak;93003,05904
+Kota Depok;2020;Perkotaan;Berasa;Tidak;655679,8796
+Kota Sukabumi;2020;Perkotaan;Berasa;Tidak;89143,71464
+Kota Tasikmalaya;2020;Perkotaan;Berasa;Tidak;180764,0553
+Kuningan;2020;Perkotaan;Berasa;Tidak;160619,8564
+Majalengka;2020;Perkotaan;Berasa;Tidak;206708,1053
+Pangandaran;2020;Perkotaan;Berasa;Tidak;50691,80151
+Purwakarta;2020;Perkotaan;Berasa;Tidak;164960,9439
+Subang;2020;Perkotaan;Berasa;Tidak;205743,1746
+Sukabumi;2020;Perkotaan;Berasa;Tidak;357322,9518
+Sumedang;2020;Perkotaan;Berasa;Tidak;188018,1299
+Tasikmalaya;2020;Perkotaan;Berasa;Tidak;181120,6707
+Jawa Barat;2020;Perkotaan;Berbau;Tidak;13845512,85
+Kota Bekasi;2020;Perkotaan;Berbau;Tidak;815649,8829
+Kota Bogor;2020;Perkotaan;Berbau;Tidak;300145,1652
+Kota Cimahi;2020;Perkotaan;Berbau;Tidak;175177,7131
+Kota Cirebon;2020;Perkotaan;Berbau;Tidak;92349,20976
+Kota Depok;2020;Perkotaan;Berbau;Tidak;659479,5389
+Kota Sukabumi;2020;Perkotaan;Berbau;Tidak;88662,48208
+Kota Tasikmalaya;2020;Perkotaan;Berbau;Tidak;180356,1494
+Kuningan;2020;Perkotaan;Berbau;Tidak;158617,296
+Majalengka;2020;Perkotaan;Berbau;Tidak;203452,8414
+Pangandaran;2020;Perkotaan;Berbau;Tidak;51542,62811
+Purwakarta;2020;Perkotaan;Berbau;Tidak;170403,4313
+Subang;2020;Perkotaan;Berbau;Tidak;203120,8632
+Sukabumi;2020;Perkotaan;Berbau;Tidak;355811,9493
+Sumedang;2020;Perkotaan;Berbau;Tidak;187768,4496
+Tasikmalaya;2020;Perkotaan;Berbau;Tidak;179322,6773
+Jawa Barat;2020;Perkotaan;Berbusa;Tidak;13949542,21
+Kota Bekasi;2020;Perkotaan;Berbusa;Tidak;821564,3893
+Kota Bogor;2020;Perkotaan;Berbusa;Tidak;302956,4257
+Kota Cimahi;2020;Perkotaan;Berbusa;Tidak;176404,6454
+Kota Cirebon;2020;Perkotaan;Berbusa;Tidak;93118,97502
+Kota Depok;2020;Perkotaan;Berbusa;Tidak;667186,177
+Kota Sukabumi;2020;Perkotaan;Berbusa;Tidak;90572,56136
+Kota Tasikmalaya;2020;Perkotaan;Berbusa;Tidak;180979,4971
+Kuningan;2020;Perkotaan;Berbusa;Tidak;161231,1072
+Majalengka;2020;Perkotaan;Berbusa;Tidak;205719,4503
+Pangandaran;2020;Perkotaan;Berbusa;Tidak;51542,62811
+Purwakarta;2020;Perkotaan;Berbusa;Tidak;171352,1194
+Subang;2020;Perkotaan;Berbusa;Tidak;206387,0067
+Sukabumi;2020;Perkotaan;Berbusa;Tidak;357322,9518
+Sumedang;2020;Perkotaan;Berbusa;Tidak;188018,1299
+Tasikmalaya;2020;Perkotaan;Berbusa;Tidak;180211,0258
+Jawa Barat;2020;Perkotaan;Berwarna;Tidak;13821442,9
+Kota Banjar;2020;Perkotaan;Berwarna;Tidak;43871,31518
+Kota Bekasi;2020;Perkotaan;Berwarna;Tidak;815379,7041
+Kota Bogor;2020;Perkotaan;Berwarna;Tidak;299819,0571
+Kota Cimahi;2020;Perkotaan;Berwarna;Tidak;175549,4126
+Kota Cirebon;2020;Perkotaan;Berwarna;Tidak;92427,02573
+Kota Depok;2020;Perkotaan;Berwarna;Tidak;664099,3345
+Kota Sukabumi;2020;Perkotaan;Berwarna;Tidak;88468,16161
+Kota Tasikmalaya;2020;Perkotaan;Berwarna;Tidak;179910,8805
+Kuningan;2020;Perkotaan;Berwarna;Tidak;156085,6924
+Majalengka;2020;Perkotaan;Berwarna;Tidak;205160,3167
+Pangandaran;2020;Perkotaan;Berwarna;Tidak;51542,62811
+Purwakarta;2020;Perkotaan;Berwarna;Tidak;171352,1194
+Subang;2020;Perkotaan;Berwarna;Tidak;204448,9433
+Sukabumi;2020;Perkotaan;Berwarna;Tidak;355811,9493
+Sumedang;2020;Perkotaan;Berwarna;Tidak;187768,4496
+Tasikmalaya;2020;Perkotaan;Berwarna;Tidak;180211,0258
+Jawa Barat;2020;Perkotaan;Keruh;Tidak;13706713,47
+Kota Banjar;2020;Perkotaan;Keruh;Tidak;43446,33074
+Kota Bekasi;2020;Perkotaan;Keruh;Tidak;808532,1461
+Kota Bogor;2020;Perkotaan;Keruh;Tidak;298779,6634
+Kota Cimahi;2020;Perkotaan;Keruh;Tidak;174790,1279
+Kota Cirebon;2020;Perkotaan;Keruh;Tidak;92917,13817
+Kota Depok;2020;Perkotaan;Keruh;Tidak;663300,4266
+Kota Sukabumi;2020;Perkotaan;Keruh;Tidak;88340,52924
+Kota Tasikmalaya;2020;Perkotaan;Keruh;Tidak;179275,1532
+Kuningan;2020;Perkotaan;Keruh;Tidak;154936,9888
+Majalengka;2020;Perkotaan;Keruh;Tidak;202690,1513
+Pangandaran;2020;Perkotaan;Keruh;Tidak;51500,41996
+Purwakarta;2020;Perkotaan;Keruh;Tidak;169922,5427
+Subang;2020;Perkotaan;Keruh;Tidak;203846,6226
+Sukabumi;2020;Perkotaan;Keruh;Tidak;352288,957
+Sumedang;2020;Perkotaan;Keruh;Tidak;187467,8985
+Tasikmalaya;2020;Perkotaan;Keruh;Tidak;178316,4924
+Jawa Barat;2021;Perkotaan;Berasa;Tidak;14417851,89
+Kota Bekasi;2021;Perkotaan;Berasa;Tidak;859853,2485
+Kota Bogor;2021;Perkotaan;Berasa;Tidak;297056,0144
+Kota Cimahi;2021;Perkotaan;Berasa;Tidak;178215,6449
+Kota Cirebon;2021;Perkotaan;Berasa;Tidak;93663,2324
+Kota Depok;2021;Perkotaan;Berasa;Tidak;673744,2201
+Kota Sukabumi;2021;Perkotaan;Berasa;Tidak;94836,62459
+Kota Tasikmalaya;2021;Perkotaan;Berasa;Tidak;194512,7022
+Kuningan;2021;Perkotaan;Berasa;Tidak;179546,6275
+Majalengka;2021;Perkotaan;Berasa;Tidak;213618,2512
+Pangandaran;2021;Perkotaan;Berasa;Tidak;48722,10276
+Purwakarta;2021;Perkotaan;Berasa;Tidak;180353,0682
+Subang;2021;Perkotaan;Berasa;Tidak;214459,492
+Sukabumi;2021;Perkotaan;Berasa;Tidak;398504,8893
+Sumedang;2021;Perkotaan;Berasa;Tidak;203673,7122
+Tasikmalaya;2021;Perkotaan;Berasa;Tidak;206178,638
+Jawa Barat;2021;Perkotaan;Berbau;Tidak;14461217,06
+Kota Bekasi;2021;Perkotaan;Berbau;Tidak;857354,4248
+Kota Bogor;2021;Perkotaan;Berbau;Tidak;303170,5671
+Kota Cimahi;2021;Perkotaan;Berbau;Tidak;177325,1282
+Kota Cirebon;2021;Perkotaan;Berbau;Tidak;93531,40512
+Kota Depok;2021;Perkotaan;Berbau;Tidak;671606,1686
+Kota Sukabumi;2021;Perkotaan;Berbau;Tidak;93039,0539
+Kota Tasikmalaya;2021;Perkotaan;Berbau;Tidak;191491,5497
+Kuningan;2021;Perkotaan;Berbau;Tidak;185103,2362
+Majalengka;2021;Perkotaan;Berbau;Tidak;213806,1688
+Pangandaran;2021;Perkotaan;Berbau;Tidak;52260,84397
+Purwakarta;2021;Perkotaan;Berbau;Tidak;181938,4289
+Subang;2021;Perkotaan;Berbau;Tidak;213897,0265
+Sukabumi;2021;Perkotaan;Berbau;Tidak;396299,5393
+Sumedang;2021;Perkotaan;Berbau;Tidak;203673,7122
+Tasikmalaya;2021;Perkotaan;Berbau;Tidak;205576,2852
+Jawa Barat;2021;Perkotaan;Berbusa;Tidak;14556275,05
+Kota Bekasi;2021;Perkotaan;Berbusa;Tidak;860382,1836
+Kota Bogor;2021;Perkotaan;Berbusa;Tidak;304862,6501
+Kota Cimahi;2021;Perkotaan;Berbusa;Tidak;178566,2292
+Kota Cirebon;2021;Perkotaan;Berbusa;Tidak;93856,73009
+Kota Depok;2021;Perkotaan;Berbusa;Tidak;686425,7681
+Kota Sukabumi;2021;Perkotaan;Berbusa;Tidak;95094,34106
+Kota Tasikmalaya;2021;Perkotaan;Berbusa;Tidak;194230,9403
+Kuningan;2021;Perkotaan;Berbusa;Tidak;185355,2251
+Majalengka;2021;Perkotaan;Berbusa;Tidak;214253,0911
+Pangandaran;2021;Perkotaan;Berbusa;Tidak;52874,65078
+Purwakarta;2021;Perkotaan;Berbusa;Tidak;182676,1613
+Subang;2021;Perkotaan;Berbusa;Tidak;215498,0525
+Sukabumi;2021;Perkotaan;Berbusa;Tidak;399093,1018
+Sumedang;2021;Perkotaan;Berbusa;Tidak;203673,7122
+Tasikmalaya;2021;Perkotaan;Berbusa;Tidak;206178,638
+Jawa Barat;2021;Perkotaan;Berwarna;Tidak;14444815,48
+Kota Banjar;2021;Perkotaan;Berwarna;Tidak;48067,85255
+Kota Bekasi;2021;Perkotaan;Berwarna;Tidak;859443,6312
+Kota Bogor;2021;Perkotaan;Berwarna;Tidak;304351,7105
+Kota Cimahi;2021;Perkotaan;Berwarna;Tidak;177504,7338
+Kota Cirebon;2021;Perkotaan;Berwarna;Tidak;93746,91136
+Kota Depok;2021;Perkotaan;Berwarna;Tidak;678397,6671
+Kota Sukabumi;2021;Perkotaan;Berwarna;Tidak;93481,06578
+Kota Tasikmalaya;2021;Perkotaan;Berwarna;Tidak;192635,9797
+Kuningan;2021;Perkotaan;Berwarna;Tidak;184891,3565
+Majalengka;2021;Perkotaan;Berwarna;Tidak;211606,0061
+Pangandaran;2021;Perkotaan;Berwarna;Tidak;52544,58352
+Purwakarta;2021;Perkotaan;Berwarna;Tidak;181243,4447
+Subang;2021;Perkotaan;Berwarna;Tidak;215498,0525
+Sukabumi;2021;Perkotaan;Berwarna;Tidak;396123,3369
+Sumedang;2021;Perkotaan;Berwarna;Tidak;203673,7122
+Tasikmalaya;2021;Perkotaan;Berwarna;Tidak;205706,6706
+Jawa Barat;2021;Perkotaan;Keruh;Tidak;14369552,3
+Kota Banjar;2021;Perkotaan;Keruh;Tidak;47880,85088
+Kota Bekasi;2021;Perkotaan;Keruh;Tidak;855263,0615
+Kota Bogor;2021;Perkotaan;Keruh;Tidak;301351,958
+Kota Cimahi;2021;Perkotaan;Keruh;Tidak;177274,3076
+Kota Cirebon;2021;Perkotaan;Keruh;Tidak;93435,20621
+Kota Depok;2021;Perkotaan;Keruh;Tidak;672129,1665
+Kota Sukabumi;2021;Perkotaan;Keruh;Tidak;91822,46304
+Kota Tasikmalaya;2021;Perkotaan;Keruh;Tidak;192123,6593
+Kuningan;2021;Perkotaan;Keruh;Tidak;184298,9008
+Majalengka;2021;Perkotaan;Keruh;Tidak;206867,7062
+Pangandaran;2021;Perkotaan;Keruh;Tidak;52327,35121
+Purwakarta;2021;Perkotaan;Keruh;Tidak;181385,1118
+Subang;2021;Perkotaan;Keruh;Tidak;213530,705
+Sukabumi;2021;Perkotaan;Keruh;Tidak;395476,1071
+Sumedang;2021;Perkotaan;Keruh;Tidak;202923,1162
+Tasikmalaya;2021;Perkotaan;Keruh;Tidak;206178,638
+Jawa Barat;2022;Perkotaan;Berasa;Tidak;13966478,7
+Kota Bekasi;2022;Perkotaan;Berasa;Tidak;812606,0025
+Kota Bogor;2022;Perkotaan;Berasa;Tidak;311420,3599
+Kota Cimahi;2022;Perkotaan;Berasa;Tidak;172836,2595
+Kota Cirebon;2022;Perkotaan;Berasa;Tidak;90053,571
+Kota Depok;2022;Perkotaan;Berasa;Tidak;655441,8697
+Kota Sukabumi;2022;Perkotaan;Berasa;Tidak;88304,45787
+Kota Tasikmalaya;2022;Perkotaan;Berasa;Tidak;185958,5629
+Kuningan;2022;Perkotaan;Berasa;Tidak;170623,1804
+Majalengka;2022;Perkotaan;Berasa;Tidak;209272,1442
+Pangandaran;2022;Perkotaan;Berasa;Tidak;51111,57087
+Purwakarta;2022;Perkotaan;Berasa;Tidak;177538,655
+Subang;2022;Perkotaan;Berasa;Tidak;219100,0112
+Sukabumi;2022;Perkotaan;Berasa;Tidak;392241,6717
+Sumedang;2022;Perkotaan;Berasa;Tidak;192002,5664
+Tasikmalaya;2022;Perkotaan;Berasa;Tidak;209562,1661
+Jawa Barat;2022;Perkotaan;Berbau;Tidak;13970081,04
+Kota Bekasi;2022;Perkotaan;Berbau;Tidak;818748,0064
+Kota Bogor;2022;Perkotaan;Berbau;Tidak;310994,7445
+Kota Cimahi;2022;Perkotaan;Berbau;Tidak;172620,2674
+Kota Cirebon;2022;Perkotaan;Berbau;Tidak;89816,53058
+Kota Depok;2022;Perkotaan;Berbau;Tidak;652938,7742
+Kota Sukabumi;2022;Perkotaan;Berbau;Tidak;87185,44721
+Kota Tasikmalaya;2022;Perkotaan;Berbau;Tidak;182451,7842
+Kuningan;2022;Perkotaan;Berbau;Tidak;170702,2857
+Majalengka;2022;Perkotaan;Berbau;Tidak;208641,267
+Pangandaran;2022;Perkotaan;Berbau;Tidak;51499,77358
+Purwakarta;2022;Perkotaan;Berbau;Tidak;175548,0126
+Subang;2022;Perkotaan;Berbau;Tidak;217531,4407
+Sukabumi;2022;Perkotaan;Berbau;Tidak;395980,0433
+Sumedang;2022;Perkotaan;Berbau;Tidak;191790,2797
+Tasikmalaya;2022;Perkotaan;Berbau;Tidak;207219,1968
+Jawa Barat;2022;Perkotaan;Berbusa;Tidak;14107042,12
+Kota Bekasi;2022;Perkotaan;Berbusa;Tidak;847034,8554
+Kota Bogor;2022;Perkotaan;Berbusa;Tidak;312133,8276
+Kota Cimahi;2022;Perkotaan;Berbusa;Tidak;173045,3262
+Kota Cirebon;2022;Perkotaan;Berbusa;Tidak;90206,12065
+Kota Depok;2022;Perkotaan;Berbusa;Tidak;663329,6944
+Kota Sukabumi;2022;Perkotaan;Berbusa;Tidak;88507,86656
+Kota Tasikmalaya;2022;Perkotaan;Berbusa;Tidak;186301,5907
+Kuningan;2022;Perkotaan;Berbusa;Tidak;170702,2857
+Majalengka;2022;Perkotaan;Berbusa;Tidak;209039,6721
+Pangandaran;2022;Perkotaan;Berbusa;Tidak;52359,62441
+Purwakarta;2022;Perkotaan;Berbusa;Tidak;178157,3023
+Subang;2022;Perkotaan;Berbusa;Tidak;224994,4704
+Sukabumi;2022;Perkotaan;Berbusa;Tidak;395980,0433
+Sumedang;2022;Perkotaan;Berbusa;Tidak;191882,9742
+Tasikmalaya;2022;Perkotaan;Berbusa;Tidak;209562,1661
+Jawa Barat;2022;Perkotaan;Berwarna;Tidak;13968401,94
+Kota Banjar;2022;Perkotaan;Berwarna;Tidak;42360,88308
+Kota Bekasi;2022;Perkotaan;Berwarna;Tidak;827428,0618
+Kota Bogor;2022;Perkotaan;Berwarna;Tidak;310004,7273
+Kota Cimahi;2022;Perkotaan;Berwarna;Tidak;172611,8424
+Kota Cirebon;2022;Perkotaan;Berwarna;Tidak;90206,12065
+Kota Depok;2022;Perkotaan;Berwarna;Tidak;655148,5969
+Kota Sukabumi;2022;Perkotaan;Berwarna;Tidak;87965,15534
+Kota Tasikmalaya;2022;Perkotaan;Berwarna;Tidak;178632,388
+Kuningan;2022;Perkotaan;Berwarna;Tidak;169324,592
+Majalengka;2022;Perkotaan;Berwarna;Tidak;207388,1754
+Pangandaran;2022;Perkotaan;Berwarna;Tidak;49304,98215
+Purwakarta;2022;Perkotaan;Berwarna;Tidak;177561,6178
+Subang;2022;Perkotaan;Berwarna;Tidak;224994,4704
+Sukabumi;2022;Perkotaan;Berwarna;Tidak;397106,9253
+Sumedang;2022;Perkotaan;Berwarna;Tidak;192002,5664
+Tasikmalaya;2022;Perkotaan;Berwarna;Tidak;209562,1661
+Jawa Barat;2022;Perkotaan;Keruh;Tidak;13839817,47
+Kota Banjar;2022;Perkotaan;Keruh;Tidak;42269,02565
+Kota Bekasi;2022;Perkotaan;Keruh;Tidak;820799,1018
+Kota Bogor;2022;Perkotaan;Keruh;Tidak;308126,1106
+Kota Cimahi;2022;Perkotaan;Keruh;Tidak;172096,7731
+Kota Cirebon;2022;Perkotaan;Keruh;Tidak;89425,14059
+Kota Depok;2022;Perkotaan;Keruh;Tidak;650837,6491
+Kota Sukabumi;2022;Perkotaan;Keruh;Tidak;86497,06138
+Kota Tasikmalaya;2022;Perkotaan;Keruh;Tidak;182537,7877
+Kuningan;2022;Perkotaan;Keruh;Tidak;168976,813
+Majalengka;2022;Perkotaan;Keruh;Tidak;206745,4576
+Pangandaran;2022;Perkotaan;Keruh;Tidak;50474,92001
+Purwakarta;2022;Perkotaan;Keruh;Tidak;171720,8216
+Subang;2022;Perkotaan;Keruh;Tidak;217531,4407
+Sukabumi;2022;Perkotaan;Keruh;Tidak;395238,1357
+Sumedang;2022;Perkotaan;Keruh;Tidak;190684,1754
+Tasikmalaya;2022;Perkotaan;Keruh;Tidak;209177,8765
+Jawa Barat;2023;Perkotaan;Berasa;Tidak;13661467,22
+Kota Bekasi;2023;Perkotaan;Berasa;Tidak;748362,0557
+Kota Bogor;2023;Perkotaan;Berasa;Tidak;276588,5544
+Kota Cimahi;2023;Perkotaan;Berasa;Tidak;157366,204
+Kota Cirebon;2023;Perkotaan;Berasa;Tidak;89465,37016
+Kota Depok;2023;Perkotaan;Berasa;Tidak;593531,3343
+Kota Sukabumi;2023;Perkotaan;Berasa;Tidak;91370,74213
+Kota Tasikmalaya;2023;Perkotaan;Berasa;Tidak;187631,1488
+Kuningan;2023;Perkotaan;Berasa;Tidak;176763,2781
+Majalengka;2023;Perkotaan;Berasa;Tidak;241525,8413
+Pangandaran;2023;Perkotaan;Berasa;Tidak;57105
+Purwakarta;2023;Perkotaan;Berasa;Tidak;189092,1274
+Subang;2023;Perkotaan;Berasa;Tidak;226696,098
+Sukabumi;2023;Perkotaan;Berasa;Tidak;430878,8913
+Sumedang;2023;Perkotaan;Berasa;Tidak;206317,9679
+Tasikmalaya;2023;Perkotaan;Berasa;Tidak;216048,6782
+Jawa Barat;2023;Perkotaan;Berbau;Tidak;13683671,57
+Kota Bekasi;2023;Perkotaan;Berbau;Tidak;745496,2083
+Kota Bogor;2023;Perkotaan;Berbau;Tidak;271576,4106
+Kota Cimahi;2023;Perkotaan;Berbau;Tidak;156043,4523
+Kota Cirebon;2023;Perkotaan;Berbau;Tidak;89472,94494
+Kota Depok;2023;Perkotaan;Berbau;Tidak;590736,2145
+Kota Sukabumi;2023;Perkotaan;Berbau;Tidak;91021,39939
+Kota Tasikmalaya;2023;Perkotaan;Berbau;Tidak;185217,8515
+Kuningan;2023;Perkotaan;Berbau;Tidak;177550,9641
+Majalengka;2023;Perkotaan;Berbau;Tidak;241742,2472
+Pangandaran;2023;Perkotaan;Berbau;Tidak;57105
+Purwakarta;2023;Perkotaan;Berbau;Tidak;189619,3737
+Subang;2023;Perkotaan;Berbau;Tidak;226696,098
+Sukabumi;2023;Perkotaan;Berbau;Tidak;429110,1041
+Sumedang;2023;Perkotaan;Berbau;Tidak;206317,9679
+Tasikmalaya;2023;Perkotaan;Berbau;Tidak;216048,6782
+Jawa Barat;2023;Perkotaan;Berbusa;Tidak;13759412,47
+Kota Bekasi;2023;Perkotaan;Berbusa;Tidak;753882,1179
+Kota Bogor;2023;Perkotaan;Berbusa;Tidak;278025,0477
+Kota Cimahi;2023;Perkotaan;Berbusa;Tidak;158228,8399
+Kota Cirebon;2023;Perkotaan;Berbusa;Tidak;89472,94494
+Kota Depok;2023;Perkotaan;Berbusa;Tidak;600213,7929
+Kota Sukabumi;2023;Perkotaan;Berbusa;Tidak;91322,93455
+Kota Tasikmalaya;2023;Perkotaan;Berbusa;Tidak;189186,2264
+Kuningan;2023;Perkotaan;Berbusa;Tidak;178016,7816
+Majalengka;2023;Perkotaan;Berbusa;Tidak;242064,3002
+Pangandaran;2023;Perkotaan;Berbusa;Tidak;57105
+Purwakarta;2023;Perkotaan;Berbusa;Tidak;189880,8532
+Subang;2023;Perkotaan;Berbusa;Tidak;227049,925
+Sukabumi;2023;Perkotaan;Berbusa;Tidak;430878,8913
+Sumedang;2023;Perkotaan;Berbusa;Tidak;206317,9679
+Tasikmalaya;2023;Perkotaan;Berbusa;Tidak;216048,6782
+Jawa Barat;2023;Perkotaan;Berwarna;Tidak;13632797,11
+Kota Banjar;2023;Perkotaan;Berwarna;Tidak;49381,24173
+Kota Bekasi;2023;Perkotaan;Berwarna;Tidak;746444,5378
+Kota Bogor;2023;Perkotaan;Berwarna;Tidak;277204,8513
+Kota Cimahi;2023;Perkotaan;Berwarna;Tidak;155774,0527
+Kota Cirebon;2023;Perkotaan;Berwarna;Tidak;89472,94494
+Kota Depok;2023;Perkotaan;Berwarna;Tidak;590465,514
+Kota Sukabumi;2023;Perkotaan;Berwarna;Tidak;91062,32456
+Kota Tasikmalaya;2023;Perkotaan;Berwarna;Tidak;186057,5897
+Kuningan;2023;Perkotaan;Berwarna;Tidak;176903,1806
+Majalengka;2023;Perkotaan;Berwarna;Tidak;241525,8413
+Pangandaran;2023;Perkotaan;Berwarna;Tidak;56731,27062
+Purwakarta;2023;Perkotaan;Berwarna;Tidak;188989,0123
+Subang;2023;Perkotaan;Berwarna;Tidak;227049,925
+Sukabumi;2023;Perkotaan;Berwarna;Tidak;430878,8913
+Sumedang;2023;Perkotaan;Berwarna;Tidak;205693,7642
+Tasikmalaya;2023;Perkotaan;Berwarna;Tidak;215495,1878
+Jawa Barat;2023;Perkotaan;Keruh;Tidak;13574104,22
+Kota Banjar;2023;Perkotaan;Keruh;Tidak;49601,75611
+Kota Bekasi;2023;Perkotaan;Keruh;Tidak;744648,3785
+Kota Bogor;2023;Perkotaan;Keruh;Tidak;274977,9215
+Kota Cimahi;2023;Perkotaan;Keruh;Tidak;155976,9789
+Kota Cirebon;2023;Perkotaan;Keruh;Tidak;89472,94494
+Kota Depok;2023;Perkotaan;Keruh;Tidak;589240,7975
+Kota Sukabumi;2023;Perkotaan;Keruh;Tidak;89085,89555
+Kota Tasikmalaya;2023;Perkotaan;Keruh;Tidak;184886,008
+Kuningan;2023;Perkotaan;Keruh;Tidak;175655,5232
+Majalengka;2023;Perkotaan;Keruh;Tidak;241620,5007
+Pangandaran;2023;Perkotaan;Keruh;Tidak;57007,07209
+Purwakarta;2023;Perkotaan;Keruh;Tidak;188622,7524
+Subang;2023;Perkotaan;Keruh;Tidak;225441,1693
+Sukabumi;2023;Perkotaan;Keruh;Tidak;428237,1156
+Sumedang;2023;Perkotaan;Keruh;Tidak;205258,3623
+Tasikmalaya;2023;Perkotaan;Keruh;Tidak;213866,8083
+Jawa Barat;2019;Perkotaan;Berasa;Ya;178525,1603
+Kota Bekasi;2019;Perkotaan;Berasa;Ya;4578,859024
+Kota Bogor;2019;Perkotaan;Berasa;Ya;6650,047409
+Kota Cimahi;2019;Perkotaan;Berasa;Ya;379,7445297
+Kota Cirebon;2019;Perkotaan;Berasa;Ya;288,5034943
+Kota Depok;2019;Perkotaan;Berasa;Ya;12032,05154
+Kota Sukabumi;2019;Perkotaan;Berasa;Ya;626,3399506
+Kota Tasikmalaya;2019;Perkotaan;Berasa;Ya;299,1321106
+Kuningan;2019;Perkotaan;Berasa;Ya;1361,128784
+Majalengka;2019;Perkotaan;Berasa;Ya;1650,919861
+Pangandaran;2019;Perkotaan;Berasa;Ya;2445,980446
+Purwakarta;2019;Perkotaan;Berasa;Ya;3220,233574
+Subang;2019;Perkotaan;Berasa;Ya;373,1169128
+Sukabumi;2019;Perkotaan;Berasa;Ya;1216,680054
+Sumedang;2019;Perkotaan;Berasa;Ya;1819,381622
+Jawa Barat;2019;Perkotaan;Berbau;Ya;172343,654
+Kota Bekasi;2019;Perkotaan;Berbau;Ya;13318,89807
+Kota Bogor;2019;Perkotaan;Berbau;Ya;3639,233154
+Kota Cimahi;2019;Perkotaan;Berbau;Ya;868,7838287
+Kota Cirebon;2019;Perkotaan;Berbau;Ya;77,2408371
+Kota Depok;2019;Perkotaan;Berbau;Ya;16991,83832
+Kota Sukabumi;2019;Perkotaan;Berbau;Ya;3092,528137
+Kota Tasikmalaya;2019;Perkotaan;Berbau;Ya;1787,509933
+Kuningan;2019;Perkotaan;Berbau;Ya;4300,691071
+Majalengka;2019;Perkotaan;Berbau;Ya;1896,052521
+Pangandaran;2019;Perkotaan;Berbau;Ya;700,4411774
+Purwakarta;2019;Perkotaan;Berbau;Ya;1336,365936
+Subang;2019;Perkotaan;Berbau;Ya;373,1169128
+Sukabumi;2019;Perkotaan;Berbau;Ya;712,9749756
+Sumedang;2019;Perkotaan;Berbau;Ya;1106,682709
+Tasikmalaya;2019;Perkotaan;Berbau;Ya;1382,40625
+Jawa Barat;2019;Perkotaan;Berbusa;Ya;42518,15541
+Kota Bekasi;2019;Perkotaan;Berbusa;Ya;1738,863403
+Kota Bogor;2019;Perkotaan;Berbusa;Ya;1893,588898
+Kota Cimahi;2019;Perkotaan;Berbusa;Ya;301,0326843
+Kota Depok;2019;Perkotaan;Berbusa;Ya;4680,597824
+Kota Sukabumi;2019;Perkotaan;Berbusa;Ya;626,3399506
+Kota Tasikmalaya;2019;Perkotaan;Berbusa;Ya;604,4860535
+Kuningan;2019;Perkotaan;Berbusa;Ya;1207,015411
+Majalengka;2019;Perkotaan;Berbusa;Ya;343,6143494
+Pangandaran;2019;Perkotaan;Berbusa;Ya;188,9428558
+Sumedang;2019;Perkotaan;Berbusa;Ya;306,709137
+Jawa Barat;2019;Perkotaan;Berwarna;Ya;176185,4947
+Kota Bekasi;2019;Perkotaan;Berwarna;Ya;6533,160965
+Kota Bogor;2019;Perkotaan;Berwarna;Ya;2079,862625
+Kota Cimahi;2019;Perkotaan;Berwarna;Ya;2376,210823
+Kota Depok;2019;Perkotaan;Berwarna;Ya;15855,01686
+Kota Sukabumi;2019;Perkotaan;Berwarna;Ya;2404,831108
+Kota Tasikmalaya;2019;Perkotaan;Berwarna;Ya;1536,453491
+Kuningan;2019;Perkotaan;Berwarna;Ya;3857,343323
+Majalengka;2019;Perkotaan;Berwarna;Ya;3477,989151
+Pangandaran;2019;Perkotaan;Berwarna;Ya;650,7997131
+Purwakarta;2019;Perkotaan;Berwarna;Ya;4181,265991
+Sukabumi;2019;Perkotaan;Berwarna;Ya;2597,138306
+Sumedang;2019;Perkotaan;Berwarna;Ya;1039,742157
+Jawa Barat;2019;Perkotaan;Keruh;Ya;274961,3652
+Kota Banjar;2019;Perkotaan;Keruh;Ya;967,0913467
+Kota Bekasi;2019;Perkotaan;Keruh;Ya;15468,25636
+Kota Bogor;2019;Perkotaan;Keruh;Ya;5093,404877
+Kota Cimahi;2019;Perkotaan;Keruh;Ya;1658,618668
+Kota Depok;2019;Perkotaan;Keruh;Ya;18570,50348
+Kota Sukabumi;2019;Perkotaan;Keruh;Ya;1501,751099
+Kota Tasikmalaya;2019;Perkotaan;Keruh;Ya;4592,05748
+Kuningan;2019;Perkotaan;Keruh;Ya;9027,62114
+Majalengka;2019;Perkotaan;Keruh;Ya;4159,753891
+Pangandaran;2019;Perkotaan;Keruh;Ya;927,8096704
+Purwakarta;2019;Perkotaan;Keruh;Ya;6954,456848
+Subang;2019;Perkotaan;Keruh;Ya;3592,084625
+Sukabumi;2019;Perkotaan;Keruh;Ya;2351,333374
+Sumedang;2019;Perkotaan;Keruh;Ya;647,3157043
+Jawa Barat;2020;Perkotaan;Berasa;Ya;168815,6558
+Kota Bekasi;2020;Perkotaan;Berasa;Ya;11701,21523
+Kota Bogor;2020;Perkotaan;Berasa;Ya;7393,894241
+Kota Cimahi;2020;Perkotaan;Berasa;Ya;1143,118011
+Kota Cirebon;2020;Perkotaan;Berasa;Ya;565,6357269
+Kota Depok;2020;Perkotaan;Berasa;Ya;14985,8528
+Kota Sukabumi;2020;Perkotaan;Berasa;Ya;1609,377441
+Kota Tasikmalaya;2020;Perkotaan;Berasa;Ya;1023,207596
+Kuningan;2020;Perkotaan;Berasa;Ya;611,2507935
+Majalengka;2020;Perkotaan;Berasa;Ya;1654,765251
+Pangandaran;2020;Perkotaan;Berasa;Ya;850,8265991
+Purwakarta;2020;Perkotaan;Berasa;Ya;6391,175514
+Subang;2020;Perkotaan;Berasa;Ya;643,8320923
+Sukabumi;2020;Perkotaan;Berasa;Ya;916,6386719
+Sumedang;2020;Perkotaan;Berasa;Ya;306,9361267
+Tasikmalaya;2020;Perkotaan;Berasa;Ya;2748,434204
+Jawa Barat;2020;Perkotaan;Berbau;Ya;141753,9734
+Kota Bekasi;2020;Perkotaan;Berbau;Ya;7921,289978
+Kota Bogor;2020;Perkotaan;Berbau;Ya;4810,41153
+Kota Cimahi;2020;Perkotaan;Berbau;Ya;2279,187836
+Kota Cirebon;2020;Perkotaan;Berbau;Ya;1219,485008
+Kota Depok;2020;Perkotaan;Berbau;Ya;11186,19356
+Kota Sukabumi;2020;Perkotaan;Berbau;Ya;2090,610001
+Kota Tasikmalaya;2020;Perkotaan;Berbau;Ya;1431,11348
+Kuningan;2020;Perkotaan;Berbau;Ya;2613,811218
+Majalengka;2020;Perkotaan;Berbau;Ya;4910,029076
+Purwakarta;2020;Perkotaan;Berbau;Ya;948,6880798
+Subang;2020;Perkotaan;Berbau;Ya;3266,143433
+Sukabumi;2020;Perkotaan;Berbau;Ya;2427,641174
+Sumedang;2020;Perkotaan;Berbau;Ya;556,6163483
+Tasikmalaya;2020;Perkotaan;Berbau;Ya;4546,427551
+Jawa Barat;2020;Perkotaan;Berbusa;Ya;37724,60703
+Kota Bekasi;2020;Perkotaan;Berbusa;Ya;2006,78363
+Kota Bogor;2020;Perkotaan;Berbusa;Ya;1999,151031
+Kota Cimahi;2020;Perkotaan;Berbusa;Ya;1052,255508
+Kota Cirebon;2020;Perkotaan;Berbusa;Ya;449,7197418
+Kota Depok;2020;Perkotaan;Berbusa;Ya;3479,55545
+Kota Sukabumi;2020;Perkotaan;Berbusa;Ya;180,5307159
+Kota Tasikmalaya;2020;Perkotaan;Berbusa;Ya;807,7657776
+Majalengka;2020;Perkotaan;Berbusa;Ya;2643,420258
+Sukabumi;2020;Perkotaan;Berbusa;Ya;916,6386719
+Sumedang;2020;Perkotaan;Berbusa;Ya;306,9361267
+Tasikmalaya;2020;Perkotaan;Berbusa;Ya;3658,079102
+Jawa Barat;2020;Perkotaan;Berwarna;Ya;165823,9177
+Kota Banjar;2020;Perkotaan;Berwarna;Ya;183,9328957
+Kota Bekasi;2020;Perkotaan;Berwarna;Ya;8191,46875
+Kota Bogor;2020;Perkotaan;Berwarna;Ya;5136,51963
+Kota Cimahi;2020;Perkotaan;Berwarna;Ya;1907,488312
+Kota Cirebon;2020;Perkotaan;Berwarna;Ya;1141,669037
+Kota Depok;2020;Perkotaan;Berwarna;Ya;6566,397964
+Kota Sukabumi;2020;Perkotaan;Berwarna;Ya;2284,930466
+Kota Tasikmalaya;2020;Perkotaan;Berwarna;Ya;1876,382431
+Kuningan;2020;Perkotaan;Berwarna;Ya;5145,414825
+Majalengka;2020;Perkotaan;Berwarna;Ya;3202,553848
+Subang;2020;Perkotaan;Berwarna;Ya;1938,063416
+Sukabumi;2020;Perkotaan;Berwarna;Ya;2427,641174
+Sumedang;2020;Perkotaan;Berwarna;Ya;556,6163483
+Tasikmalaya;2020;Perkotaan;Berwarna;Ya;3658,079102
+Jawa Barat;2020;Perkotaan;Keruh;Ya;280553,3532
+Kota Banjar;2020;Perkotaan;Keruh;Ya;608,9173355
+Kota Bekasi;2020;Perkotaan;Keruh;Ya;15039,02682
+Kota Bogor;2020;Perkotaan;Keruh;Ya;6175,913315
+Kota Cimahi;2020;Perkotaan;Keruh;Ya;2666,77298
+Kota Cirebon;2020;Perkotaan;Keruh;Ya;651,5565948
+Kota Depok;2020;Perkotaan;Keruh;Ya;7365,305893
+Kota Sukabumi;2020;Perkotaan;Keruh;Ya;2412,562836
+Kota Tasikmalaya;2020;Perkotaan;Keruh;Ya;2512,109695
+Kuningan;2020;Perkotaan;Keruh;Ya;6294,118378
+Majalengka;2020;Perkotaan;Keruh;Ya;5672,719238
+Pangandaran;2020;Perkotaan;Keruh;Ya;42,20814896
+Purwakarta;2020;Perkotaan;Keruh;Ya;1429,576691
+Subang;2020;Perkotaan;Keruh;Ya;2540,384094
+Sukabumi;2020;Perkotaan;Keruh;Ya;5950,633545
+Sumedang;2020;Perkotaan;Keruh;Ya;857,16745
+Tasikmalaya;2020;Perkotaan;Keruh;Ya;5552,612473
+Jawa Barat;2021;Perkotaan;Berasa;Ya;169249,2047
+Kota Bekasi;2021;Perkotaan;Berasa;Ya;528,9351196
+Kota Bogor;2021;Perkotaan;Berasa;Ya;7806,635681
+Kota Cimahi;2021;Perkotaan;Berasa;Ya;355,5807352
+Kota Cirebon;2021;Perkotaan;Berasa;Ya;193,4976883
+Kota Depok;2021;Perkotaan;Berasa;Ya;13714,7457
+Kota Sukabumi;2021;Perkotaan;Berasa;Ya;713,7528152
+Kota Tasikmalaya;2021;Perkotaan;Berasa;Ya;2184,978546
+Kuningan;2021;Perkotaan;Berasa;Ya;5808,597656
+Majalengka;2021;Perkotaan;Berasa;Ya;634,8399506
+Pangandaran;2021;Perkotaan;Berasa;Ya;4152,548027
+Purwakarta;2021;Perkotaan;Berasa;Ya;3102,613525
+Subang;2021;Perkotaan;Berasa;Ya;1038,560547
+Sukabumi;2021;Perkotaan;Berasa;Ya;588,2125854
+Jawa Barat;2021;Perkotaan;Berbau;Ya;125884,0355
+Kota Bekasi;2021;Perkotaan;Berbau;Ya;3027,75885
+Kota Bogor;2021;Perkotaan;Berbau;Ya;1692,082977
+Kota Cimahi;2021;Perkotaan;Berbau;Ya;1246,09752
+Kota Cirebon;2021;Perkotaan;Berbau;Ya;325,3249664
+Kota Depok;2021;Perkotaan;Berbau;Ya;15852,79712
+Kota Sukabumi;2021;Perkotaan;Berbau;Ya;2511,323509
+Kota Tasikmalaya;2021;Perkotaan;Berbau;Ya;5206,130966
+Kuningan;2021;Perkotaan;Berbau;Ya;251,9889221
+Majalengka;2021;Perkotaan;Berbau;Ya;446,9223328
+Pangandaran;2021;Perkotaan;Berbau;Ya;613,8068085
+Purwakarta;2021;Perkotaan;Berbau;Ya;1517,252762
+Subang;2021;Perkotaan;Berbau;Ya;1601,026001
+Sukabumi;2021;Perkotaan;Berbau;Ya;2793,562561
+Tasikmalaya;2021;Perkotaan;Berbau;Ya;602,3527832
+Jawa Barat;2021;Perkotaan;Berbusa;Ya;30826,05088
+Kota Cimahi;2021;Perkotaan;Berbusa;Ya;4,996445656
+Kota Depok;2021;Perkotaan;Berbusa;Ya;1033,197662
+Kota Sukabumi;2021;Perkotaan;Berbusa;Ya;456,0363464
+Kota Tasikmalaya;2021;Perkotaan;Berbusa;Ya;2466,740448
+Purwakarta;2021;Perkotaan;Berbusa;Ya;779,5204163
+Jawa Barat;2021;Perkotaan;Berwarna;Ya;142285,6163
+Kota Banjar;2021;Perkotaan;Berwarna;Ya;661,0252533
+Kota Bekasi;2021;Perkotaan;Berwarna;Ya;938,5523682
+Kota Bogor;2021;Perkotaan;Berwarna;Ya;510,9396515
+Kota Cimahi;2021;Perkotaan;Berwarna;Ya;1066,491853
+Kota Cirebon;2021;Perkotaan;Berwarna;Ya;109,8187256
+Kota Depok;2021;Perkotaan;Berwarna;Ya;9061,298645
+Kota Sukabumi;2021;Perkotaan;Berwarna;Ya;2069,311628
+Kota Tasikmalaya;2021;Perkotaan;Berwarna;Ya;4061,700974
+Kuningan;2021;Perkotaan;Berwarna;Ya;463,8686066
+Majalengka;2021;Perkotaan;Berwarna;Ya;2647,085037
+Pangandaran;2021;Perkotaan;Berwarna;Ya;330,0672607
+Purwakarta;2021;Perkotaan;Berwarna;Ya;2212,236984
+Sukabumi;2021;Perkotaan;Berwarna;Ya;2969,764954
+Tasikmalaya;2021;Perkotaan;Berwarna;Ya;471,9674377
+Jawa Barat;2021;Perkotaan;Keruh;Ya;217548,7993
+Kota Banjar;2021;Perkotaan;Keruh;Ya;848,0269241
+Kota Bekasi;2021;Perkotaan;Keruh;Ya;5119,122122
+Kota Bogor;2021;Perkotaan;Keruh;Ya;3510,692146
+Kota Cimahi;2021;Perkotaan;Keruh;Ya;1296,918023
+Kota Cirebon;2021;Perkotaan;Keruh;Ya;421,52388
+Kota Depok;2021;Perkotaan;Keruh;Ya;15329,79929
+Kota Sukabumi;2021;Perkotaan;Keruh;Ya;3727,914371
+Kota Tasikmalaya;2021;Perkotaan;Keruh;Ya;4574,021423
+Kuningan;2021;Perkotaan;Keruh;Ya;1056,32431
+Majalengka;2021;Perkotaan;Keruh;Ya;7385,384905
+Pangandaran;2021;Perkotaan;Keruh;Ya;547,2995758
+Purwakarta;2021;Perkotaan;Keruh;Ya;2070,569855
+Subang;2021;Perkotaan;Keruh;Ya;1967,347595
+Sukabumi;2021;Perkotaan;Keruh;Ya;3616,99472
+Sumedang;2021;Perkotaan;Keruh;Ya;750,5960083
+Jawa Barat;2022;Perkotaan;Berasa;Ya;204585,7018
+Kota Bekasi;2022;Perkotaan;Berasa;Ya;46422,31239
+Kota Bogor;2022;Perkotaan;Berasa;Ya;1083,752563
+Kota Cimahi;2022;Perkotaan;Berasa;Ya;671,6186963
+Kota Cirebon;2022;Perkotaan;Berasa;Ya;152,5496561
+Kota Depok;2022;Perkotaan;Berasa;Ya;9961,377227
+Kota Sukabumi;2022;Perkotaan;Berasa;Ya;203,4086986
+Kota Tasikmalaya;2022;Perkotaan;Berasa;Ya;691,8766532
+Kuningan;2022;Perkotaan;Berasa;Ya;79,10530622
+Pangandaran;2022;Perkotaan;Berasa;Ya;1248,053539
+Purwakarta;2022;Perkotaan;Berasa;Ya;1080,379695
+Subang;2022;Perkotaan;Berasa;Ya;5894,459242
+Sukabumi;2022;Perkotaan;Berasa;Ya;6937,06563
+Sumedang;2022;Perkotaan;Berasa;Ya;282,6719384
+Jawa Barat;2022;Perkotaan;Berbau;Ya;200983,3644
+Kota Bekasi;2022;Perkotaan;Berbau;Ya;40280,30851
+Kota Bogor;2022;Perkotaan;Berbau;Ya;1509,367886
+Kota Cimahi;2022;Perkotaan;Berbau;Ya;887,6108065
+Kota Cirebon;2022;Perkotaan;Berbau;Ya;389,5900694
+Kota Depok;2022;Perkotaan;Berbau;Ya;12464,47265
+Kota Sukabumi;2022;Perkotaan;Berbau;Ya;1322,419352
+Kota Tasikmalaya;2022;Perkotaan;Berbau;Ya;4198,655395
+Majalengka;2022;Perkotaan;Berbau;Ya;630,877182
+Pangandaran;2022;Perkotaan;Berbau;Ya;859,8508283
+Purwakarta;2022;Perkotaan;Berbau;Ya;3071,022086
+Subang;2022;Perkotaan;Berbau;Ya;7463,029664
+Sukabumi;2022;Perkotaan;Berbau;Ya;3198,693947
+Sumedang;2022;Perkotaan;Berbau;Ya;494,9586215
+Tasikmalaya;2022;Perkotaan;Berbau;Ya;2342,969294
+Jawa Barat;2022;Perkotaan;Berbusa;Ya;64022,28444
+Kota Bekasi;2022;Perkotaan;Berbusa;Ya;11993,45954
+Kota Bogor;2022;Perkotaan;Berbusa;Ya;370,2848218
+Kota Cimahi;2022;Perkotaan;Berbusa;Ya;462,5520403
+Kota Depok;2022;Perkotaan;Berbusa;Ya;2073,55243
+Kota Tasikmalaya;2022;Perkotaan;Berbusa;Ya;348,8488527
+Majalengka;2022;Perkotaan;Berbusa;Ya;232,4721728
+Purwakarta;2022;Perkotaan;Berbusa;Ya;461,7323591
+Sukabumi;2022;Perkotaan;Berbusa;Ya;3198,693947
+Sumedang;2022;Perkotaan;Berbusa;Ya;402,2641288
+Jawa Barat;2022;Perkotaan;Berwarna;Ya;202662,4591
+Kota Banjar;2022;Perkotaan;Berwarna;Ya;996,7970008
+Kota Bekasi;2022;Perkotaan;Berwarna;Ya;31600,25316
+Kota Bogor;2022;Perkotaan;Berwarna;Ya;2499,385157
+Kota Cimahi;2022;Perkotaan;Berwarna;Ya;896,0358189
+Kota Depok;2022;Perkotaan;Berwarna;Ya;10254,65002
+Kota Sukabumi;2022;Perkotaan;Berwarna;Ya;542,7112238
+Kota Tasikmalaya;2022;Perkotaan;Berwarna;Ya;8018,051572
+Kuningan;2022;Perkotaan;Berwarna;Ya;1377,693701
+Majalengka;2022;Perkotaan;Berwarna;Ya;1883,968793
+Pangandaran;2022;Perkotaan;Berwarna;Ya;3054,642258
+Purwakarta;2022;Perkotaan;Berwarna;Ya;1057,416834
+Sukabumi;2022;Perkotaan;Berwarna;Ya;2071,811996
+Sumedang;2022;Perkotaan;Berwarna;Ya;282,6719384
+Jawa Barat;2022;Perkotaan;Keruh;Ya;331246,9366
+Kota Banjar;2022;Perkotaan;Keruh;Ya;1088,654434
+Kota Bekasi;2022;Perkotaan;Keruh;Ya;38229,21309
+Kota Bogor;2022;Perkotaan;Keruh;Ya;4378,001776
+Kota Cimahi;2022;Perkotaan;Keruh;Ya;1411,105122
+Kota Cirebon;2022;Perkotaan;Keruh;Ya;780,9800595
+Kota Depok;2022;Perkotaan;Keruh;Ya;14565,59776
+Kota Sukabumi;2022;Perkotaan;Keruh;Ya;2010,805188
+Kota Tasikmalaya;2022;Perkotaan;Keruh;Ya;4112,651847
+Kuningan;2022;Perkotaan;Keruh;Ya;1725,472758
+Majalengka;2022;Perkotaan;Keruh;Ya;2526,686637
+Pangandaran;2022;Perkotaan;Keruh;Ya;1884,704396
+Purwakarta;2022;Perkotaan;Keruh;Ya;6898,213068
+Subang;2022;Perkotaan;Keruh;Ya;7463,029664
+Sukabumi;2022;Perkotaan;Keruh;Ya;3940,601624
+Sumedang;2022;Perkotaan;Keruh;Ya;1601,062939
+Tasikmalaya;2022;Perkotaan;Keruh;Ya;384,2896411
+Jawa Barat;2023;Perkotaan;Berasa;Ya;146858,6148
+Kota Bekasi;2023;Perkotaan;Berasa;Ya;20514,67646
+Kota Bogor;2023;Perkotaan;Berasa;Ya;1436,493303
+Kota Cimahi;2023;Perkotaan;Berasa;Ya;1258,961905
+Kota Cirebon;2023;Perkotaan;Berasa;Ya;7,574786963
+Kota Depok;2023;Perkotaan;Berasa;Ya;7364,226441
+Kota Sukabumi;2023;Perkotaan;Berasa;Ya;175,8415763
+Kota Tasikmalaya;2023;Perkotaan;Berasa;Ya;1555,077639
+Kuningan;2023;Perkotaan;Berasa;Ya;1253,503573
+Majalengka;2023;Perkotaan;Berasa;Ya;538,4589232
+Purwakarta;2023;Perkotaan;Berasa;Ya;2765,623301
+Subang;2023;Perkotaan;Berasa;Ya;353,8269855
+Jawa Barat;2023;Perkotaan;Berbau;Ya;124654,2675
+Kota Bekasi;2023;Perkotaan;Berbau;Ya;23380,52379
+Kota Bogor;2023;Perkotaan;Berbau;Ya;6448,637137
+Kota Cimahi;2023;Perkotaan;Berbau;Ya;2581,713589
+Kota Depok;2023;Perkotaan;Berbau;Ya;10159,3462
+Kota Sukabumi;2023;Perkotaan;Berbau;Ya;525,1843158
+Kota Tasikmalaya;2023;Perkotaan;Berbau;Ya;3968,374986
+Kuningan;2023;Perkotaan;Berbau;Ya;465,817495
+Majalengka;2023;Perkotaan;Berbau;Ya;322,0530104
+Purwakarta;2023;Perkotaan;Berbau;Ya;2238,377009
+Subang;2023;Perkotaan;Berbau;Ya;353,8269855
+Sukabumi;2023;Perkotaan;Berbau;Ya;1768,787164
+Jawa Barat;2023;Perkotaan;Berbusa;Ya;48913,36388
+Kota Bekasi;2023;Perkotaan;Berbusa;Ya;14994,61419
+Kota Cimahi;2023;Perkotaan;Berbusa;Ya;396,3259913
+Kota Depok;2023;Perkotaan;Berbusa;Ya;681,7678504
+Kota Sukabumi;2023;Perkotaan;Berbusa;Ya;223,6491555
+Purwakarta;2023;Perkotaan;Berbusa;Ya;1976,897476
+Jawa Barat;2023;Perkotaan;Berwarna;Ya;175528,7289
+Kota Banjar;2023;Perkotaan;Berwarna;Ya;937,7582744
+Kota Bekasi;2023;Perkotaan;Berwarna;Ya;22432,19437
+Kota Bogor;2023;Perkotaan;Berwarna;Ya;820,1963512
+Kota Cimahi;2023;Perkotaan;Berwarna;Ya;2851,113214
+Kota Depok;2023;Perkotaan;Berwarna;Ya;10430,04677
+Kota Sukabumi;2023;Perkotaan;Berwarna;Ya;484,2591388
+Kota Tasikmalaya;2023;Perkotaan;Berwarna;Ya;3128,636785
+Kuningan;2023;Perkotaan;Berwarna;Ya;1113,601085
+Majalengka;2023;Perkotaan;Berwarna;Ya;538,4589232
+Pangandaran;2023;Perkotaan;Berwarna;Ya;373,7293754
+Purwakarta;2023;Perkotaan;Berwarna;Ya;2868,738395
+Sumedang;2023;Perkotaan;Berwarna;Ya;624,2037496
+Tasikmalaya;2023;Perkotaan;Berwarna;Ya;553,4903833
+Jawa Barat;2023;Perkotaan;Keruh;Ya;234221,6147
+Kota Banjar;2023;Perkotaan;Keruh;Ya;717,2438867
+Kota Bekasi;2023;Perkotaan;Keruh;Ya;24228,35359
+Kota Bogor;2023;Perkotaan;Keruh;Ya;3047,126229
+Kota Cimahi;2023;Perkotaan;Keruh;Ya;2648,186976
+Kota Depok;2023;Perkotaan;Keruh;Ya;11654,76319
+Kota Sukabumi;2023;Perkotaan;Keruh;Ya;2460,68815
+Kota Tasikmalaya;2023;Perkotaan;Keruh;Ya;4300,218439
+Kuningan;2023;Perkotaan;Keruh;Ya;2361,258427
+Majalengka;2023;Perkotaan;Keruh;Ya;443,799537
+Pangandaran;2023;Perkotaan;Keruh;Ya;97,92791226
+Purwakarta;2023;Perkotaan;Keruh;Ya;3234,998336
+Subang;2023;Perkotaan;Keruh;Ya;1608,755739
+Sukabumi;2023;Perkotaan;Keruh;Ya;2641,775676
+Sumedang;2023;Perkotaan;Keruh;Ya;1059,605618
+Tasikmalaya;2023;Perkotaan;Keruh;Ya;2181,869827
