@@ -112,7 +112,7 @@ Category, sub-category, detail product, gender, SES, occupation, test type, meth
 
 ### Preview
 
-![DEKA Norm Dashboard Preview](assets/preview.png)
+![DEKA Norm Dashboard Preview](preview.png)
 
 The Streamlit application contains three pages:
 
