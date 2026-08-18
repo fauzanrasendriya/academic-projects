@@ -108,6 +108,12 @@ Category, sub-category, detail product, gender, SES, occupation, test type, meth
 
 ## Dashboard
 
+**Live Dashboard:** [DEKA Normalized Dashboard](https://deka-normalized-dashboard.streamlit.app)
+
+### Preview
+
+![DEKA Norm Dashboard Preview](assets/dashboard-preview.png)
+
 The Streamlit application contains three pages:
 
 - **Dashboard** — interactive filters for parameter, scale, norm grade, project attributes, demographics, and actual age; results are shown through KPI cards and a norm table.
